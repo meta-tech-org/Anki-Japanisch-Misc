@@ -1,6 +1,33 @@
 {
     "__type__": "Deck",
-    "children": [],
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "2b2233cb-e816-11ec-a8ab-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "03 Lektion",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "歌[うた]う",
+                        "singen",
+                        "",
+                        ""
+                    ],
+                    "guid": "t8qCXr{pHx",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                }
+            ]
+        }
+    ],
     "crowdanki_uuid": "2c70fdf5-e815-11ec-bf14-0c7a15ee466f",
     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
     "deck_configurations": [
@@ -60,6 +87,97 @@
     "extendRev": 0,
     "media_files": [],
     "name": "Japanisch Misc",
-    "note_models": [],
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large{\n\tfont-size:40px;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Japanisch",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Deutsch",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Strichordnung",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "TTS",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Vokabel",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{furigana:Japanisch}}</p>\n{{#TTS}}{{TTS}}{{/TTS}}\n\n<hr id=answer>\n\n\n<p class=\"p-large\">{{Deutsch}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Vokabel: Japanisch -> Deutsch",
+                    "ord": 0,
+                    "qfmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Japanisch}}</p>"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{furigana:Japanisch}}</p>\n<br>\n{{#TTS}}<br>{{TTS}}<br>{{/TTS}}\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Vokabel: Deutsch -> Japanisch",
+                    "ord": 1,
+                    "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Deutsch}}</p>"
+                }
+            ],
+            "type": 0
+        }
+    ],
     "notes": []
 }
