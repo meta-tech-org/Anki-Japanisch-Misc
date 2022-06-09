@@ -24,6 +24,258 @@
                     "guid": "t8qCXr{pHx",
                     "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "聞[き]く",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "GkE@6+0yXw",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "話[はな]す",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "rcH}]1bF+8",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "待[ま]つ",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "nJu8=XpD`~",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "死[し]ぬ",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "CMZNg(NG[i",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "飲[の]む",
+                        "trinken",
+                        "",
+                        ""
+                    ],
+                    "guid": "zS8=qY~mi`",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "急[いそ]ぐ",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "ABKb_h;(aS",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "遊[あそ]ぶ",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "m9n{mn=7c)",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "乗[の]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "nNm|~Ns:h~",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "食[た]べる",
+                        "essen",
+                        "",
+                        ""
+                    ],
+                    "guid": "Hp<[P2?-6#",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "見[み]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "{nS>ZM8il",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "寝[ね]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "eMEJ`[Qyo|",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "起[お]きる",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "DzQ-@c.F|R",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "入[はい]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "OA_`>:A(y-",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "走る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "hC1bBZ6puc",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "いる",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "Q]CS-N|-6+",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "帰[かえ]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "h<9w|&3c<n",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "限[かぎ]る",
+                        "limitieren",
+                        "",
+                        ""
+                    ],
+                    "guid": "w+&AH:xVCl",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "切[き]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "C:j4P{ax+Z",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "喋[しゃべ]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "0i`_;;w:^",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "蹴[け]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "rlfK*gT(lx",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "滑[すべ]る",
+                        "",
+                        "",
+                        ""
+                    ],
+                    "guid": "tllNF63rZU",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
                 }
             ]
         }
