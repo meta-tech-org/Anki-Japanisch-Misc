@@ -7,6 +7,175 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "2f8b1b8b-e99f-11ec-8005-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "googletts-3043a22f-264b4767-96f0b688-fae0d469-cb883d86.mp3",
+                        "googletts-30ef41ad-0f5d9c98-11d80820-c4d8c064-9c7fdbf1.mp3",
+                        "googletts-3b6c0d2f-201d9767-6b081d7a-ce09d036-cc86ee6c.mp3",
+                        "googletts-74c93625-39118bcd-cf903f7a-fad7e044-9b0ca042.mp3",
+                        "googletts-79f9d48d-b3c611af-68267d4c-b40ebdbb-0e7e8c3b.mp3",
+                        "googletts-7f209e5f-cde70e83-2108412b-27ebe9a7-2e56c941.mp3",
+                        "googletts-8aa75276-958da506-b35afa6c-891a4f23-d95f07a8.mp3",
+                        "googletts-8e76266a-d0fad80a-87923d93-9befd61a-884ca695.mp3",
+                        "googletts-d6a27ac8-aabb2abb-20123a12-28b64215-0935b3ae.mp3",
+                        "googletts-d7e52eb8-1eb0ed30-9cb65d0d-b7ef9a19-cd27e576.mp3",
+                        "僕.png",
+                        "味.png",
+                        "森.png",
+                        "楽.png",
+                        "知.png",
+                        "納豆.png",
+                        "美.png",
+                        "美味.png",
+                        "豆.png",
+                        "鞄.png"
+                    ],
+                    "name": "01 Vokabeln",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "美[うつく]しい",
+                                "<b>hübsch, schön</b>",
+                                "<img src=\"美.png\">",
+                                "[sound:googletts-3b6c0d2f-201d9767-6b081d7a-ce09d036-cc86ee6c.mp3]"
+                            ],
+                            "guid": "Hz6;o#*Lh9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "味[あじ]",
+                                "<b>Geschmack</b>",
+                                "<img src=\"味.png\">",
+                                "[sound:googletts-8aa75276-958da506-b35afa6c-891a4f23-d95f07a8.mp3]"
+                            ],
+                            "guid": "GZnsJI%,QJ",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "美味[おい]しい",
+                                "<b>lecker, schmackhaft</b>",
+                                "<img src=\"美味.png\">",
+                                "[sound:googletts-79f9d48d-b3c611af-68267d4c-b40ebdbb-0e7e8c3b.mp3]"
+                            ],
+                            "guid": "uU]6HG3S9l",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "豆[まめ]",
+                                "<b>Bohnen, Hülsenfrucht</b>",
+                                "<img src=\"豆.png\">",
+                                "[sound:googletts-7f209e5f-cde70e83-2108412b-27ebe9a7-2e56c941.mp3]"
+                            ],
+                            "guid": "u{AdSg1nvn",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "納豆[なっとう]",
+                                "<b>fermentierte Bohnen</b>",
+                                "<img src=\"納豆.png\">",
+                                "[sound:googletts-74c93625-39118bcd-cf903f7a-fad7e044-9b0ca042.mp3]"
+                            ],
+                            "guid": "C`*dfbSQ5m",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "知[しる]",
+                                "<b>Wissen, Weisheit</b>",
+                                "<img src=\"知.png\">",
+                                "[sound:googletts-3043a22f-264b4767-96f0b688-fae0d469-cb883d86.mp3]"
+                            ],
+                            "guid": "Q4}~<XF+[)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "森[もり]",
+                                "<b>Wald</b>",
+                                "<img src=\"森.png\">",
+                                "[sound:googletts-d7e52eb8-1eb0ed30-9cb65d0d-b7ef9a19-cd27e576.mp3]"
+                            ],
+                            "guid": "FwTGkQ6Iv@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "楽[たの]しい",
+                                "<b>amüsant, lustig, Spaß machen</b>",
+                                "<img src=\"楽.png\">",
+                                "[sound:googletts-30ef41ad-0f5d9c98-11d80820-c4d8c064-9c7fdbf1.mp3]"
+                            ],
+                            "guid": "C8KS_Rq@ED",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "鞄[かばん]",
+                                "<b>(Hand)Tasche</b>",
+                                "<img src=\"鞄.png\">",
+                                "[sound:googletts-8e76266a-d0fad80a-87923d93-9befd61a-884ca695.mp3]"
+                            ],
+                            "guid": "oQ-4TiX_QJ",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "僕[ぼく]",
+                                "<b>ich (männlich)</b>",
+                                "<img src=\"僕.png\">",
+                                "[sound:googletts-d6a27ac8-aabb2abb-20123a12-28b64215-0935b3ae.mp3]"
+                            ],
+                            "guid": "cB!fFH&c}s",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "2f8a5842-e99f-11ec-bfac-3c58c2d0fe16",
+            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "02 Lektion",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "97b3e197-e99b-11ec-a3e5-3c58c2d0fe16",
                     "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
                     "desc": "",
