@@ -3,7 +3,567 @@
     "children": [
         {
             "__type__": "Deck",
-            "children": [],
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "97b3e197-e99b-11ec-a3e5-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "googletts-043bbeb3-ace30fe2-608630f6-dcaf71ee-28f0b755.mp3",
+                        "googletts-0a952903-18c511c2-ceb0a940-6755451d-dde760ce.mp3",
+                        "googletts-1af96a7d-c4d84aa1-87c51266-6540bfc8-7bb9dafb.mp3",
+                        "googletts-1e0809ac-db3ca33d-41af319d-ba8cd36f-78841c9c.mp3",
+                        "googletts-490c45e1-4c7c5b3c-3c4bf7d9-35dfae7e-e9baede0.mp3",
+                        "googletts-594833b0-bded8faa-ab1f746d-790a8a76-b3ba12e8.mp3",
+                        "googletts-5f5d3a60-94bd54d8-8fede532-6f33637f-4451b4ba.mp3",
+                        "googletts-61062abe-b17efc53-11de6bd4-6268c640-01784840.mp3",
+                        "googletts-697dbf0e-c8ea84f9-e6604c0e-fc33cd1e-852ddb9a.mp3",
+                        "googletts-6c8f5f0d-a85b110c-5810a65d-50d62e10-b69b1957.mp3",
+                        "googletts-6e8f6094-7674990d-6828585d-c8484caf-807e6bcb.mp3",
+                        "googletts-9230f95d-c6c92503-a11b3aee-c2dafe1b-8bb02a53.mp3",
+                        "googletts-ac6dc0ca-4761f471-2a69a394-60e9b7b9-b1b8b1fc.mp3",
+                        "googletts-bc645647-e5a8eb06-bc2c28e3-a7821115-a4f2a660.mp3",
+                        "googletts-bd4a31c0-e277840c-5c338034-06de0601-03f22fe7.mp3",
+                        "googletts-c65b9e80-694f157a-ce45d3ab-e26d1ba9-ad41b863.mp3",
+                        "googletts-cf7f7079-d7f7dfcc-72f17055-c2ecf05a-2ea8e0de.mp3",
+                        "googletts-cff7d4da-f344d4cf-5dca1795-85ce8eba-13d5bc24.mp3",
+                        "googletts-da17162d-9957a1ab-cdef9306-b95a2016-3d4b3f7c.mp3",
+                        "googletts-e19d9832-bd3637bd-a75912c8-737dc197-bc2ce0b6.mp3",
+                        "googletts-e6f5843e-44dc421f-edf1f3d6-640eb828-f5a47c80.mp3",
+                        "googletts-ea453315-a90c4831-34a291ec-ee6104f2-09812dc2.mp3",
+                        "googletts-eadf1efd-b6272886-19afedbd-56b7b7db-0d5a3ecb.mp3",
+                        "googletts-ebbfc638-71d0ab53-8ac225c4-566a1cd5-391542d7.mp3",
+                        "googletts-f1657267-d9e871e8-53147c8a-33d02ff9-df9a609b.mp3",
+                        "googletts-f7e5e3f8-361c6a10-73d80384-88ebbed3-28c20731.mp3",
+                        "googletts-fe9a4307-ac7f2540-a68b3975-a4a7e9b8-fbf284fc.mp3",
+                        "乗.png",
+                        "入.png",
+                        "切.png",
+                        "喋.png",
+                        "寝.png",
+                        "帰.png",
+                        "待.png",
+                        "急.png",
+                        "来.png",
+                        "歌.png",
+                        "死.png",
+                        "滑.png",
+                        "犬.png",
+                        "知.png",
+                        "聞.png",
+                        "見.png",
+                        "話.png",
+                        "誰.png",
+                        "走.png",
+                        "起.png",
+                        "蹴.png",
+                        "遊.png",
+                        "限.png",
+                        "食.png",
+                        "飲.png"
+                    ],
+                    "mid": 1642764739085,
+                    "name": "01 Vokabeln",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "歌[うた]う",
+                                "singen",
+                                "<img src=\"歌.png\">",
+                                "[sound:googletts-da17162d-9957a1ab-cdef9306-b95a2016-3d4b3f7c.mp3]"
+                            ],
+                            "guid": "t8qCXr{pHx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "犬[いぬ]",
+                                "<b>Hund</b>",
+                                "<img src=\"犬.png\">",
+                                "[sound:googletts-697dbf0e-c8ea84f9-e6604c0e-fc33cd1e-852ddb9a.mp3]"
+                            ],
+                            "guid": "bA[^I=K99i",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "誰[だれ]",
+                                "<b>wer</b>",
+                                "<img src=\"誰.png\">",
+                                "[sound:googletts-bd4a31c0-e277840c-5c338034-06de0601-03f22fe7.mp3]"
+                            ],
+                            "guid": "Lc3R95$0wA",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "食[た]べる",
+                                "<b>essen</b>",
+                                "<img src=\"食.png\">",
+                                "[sound:googletts-0a952903-18c511c2-ceb0a940-6755451d-dde760ce.mp3]"
+                            ],
+                            "guid": "JnR)%f8Ri;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "聞[き]く",
+                                "<b>hören, zuhören</b>",
+                                "<img src=\"聞.png\">",
+                                "[sound:googletts-f1657267-d9e871e8-53147c8a-33d02ff9-df9a609b.mp3]"
+                            ],
+                            "guid": "CMpzVOVt><",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "話[はな]す",
+                                "<b>sprechen</b>",
+                                "<img src=\"話.png\">",
+                                "[sound:googletts-490c45e1-4c7c5b3c-3c4bf7d9-35dfae7e-e9baede0.mp3]"
+                            ],
+                            "guid": "IuQ#,8]kM]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "待[ま]つ",
+                                "<b>warten</b>",
+                                "<img src=\"待.png\">",
+                                "[sound:googletts-ac6dc0ca-4761f471-2a69a394-60e9b7b9-b1b8b1fc.mp3]"
+                            ],
+                            "guid": "vP7d`lOMln",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "死[し]ぬ",
+                                "<b>sterben</b>",
+                                "<img src=\"死.png\">",
+                                "[sound:googletts-594833b0-bded8faa-ab1f746d-790a8a76-b3ba12e8.mp3]"
+                            ],
+                            "guid": "F^rPm-VAD$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "飲[の]む",
+                                "<b>trinken</b>",
+                                "<img src=\"飲.png\">",
+                                "[sound:googletts-043bbeb3-ace30fe2-608630f6-dcaf71ee-28f0b755.mp3]"
+                            ],
+                            "guid": "f&z,osM+e3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "急[いそ]ぐ",
+                                "<b>sich beeilen</b>",
+                                "<img src=\"急.png\">",
+                                "[sound:googletts-5f5d3a60-94bd54d8-8fede532-6f33637f-4451b4ba.mp3]"
+                            ],
+                            "guid": "bxFkf)hG,4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "遊[あそ]ぶ",
+                                "<b>spielen</b>",
+                                "<img src=\"遊.png\">",
+                                "[sound:googletts-6c8f5f0d-a85b110c-5810a65d-50d62e10-b69b1957.mp3]"
+                            ],
+                            "guid": "h~ukx&d=CM",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "乗[の]る",
+                                "<b>zusteigen, einsteigen, vorwärtskommen</b>",
+                                "<img src=\"乗.png\">",
+                                "[sound:googletts-cf7f7079-d7f7dfcc-72f17055-c2ecf05a-2ea8e0de.mp3]"
+                            ],
+                            "guid": "N))2c4x/?O",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "見[み]る",
+                                "<b>sehen</b>",
+                                "<img src=\"見.png\">",
+                                "[sound:googletts-1af96a7d-c4d84aa1-87c51266-6540bfc8-7bb9dafb.mp3]"
+                            ],
+                            "guid": "caN:oSmPdW",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "寝[ね]る",
+                                "<b>schlafen</b>",
+                                "<img src=\"寝.png\">",
+                                "[sound:googletts-61062abe-b17efc53-11de6bd4-6268c640-01784840.mp3]"
+                            ],
+                            "guid": "r<]HTUX++d",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "起[お]きる",
+                                "<b>aufwachen</b>",
+                                "<img src=\"起.png\">",
+                                "[sound:googletts-eadf1efd-b6272886-19afedbd-56b7b7db-0d5a3ecb.mp3]"
+                            ],
+                            "guid": "dEt,6={-^[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "入[はい]る",
+                                "<b>eintreten, betreten</b>",
+                                "<img src=\"入.png\">",
+                                "[sound:googletts-cff7d4da-f344d4cf-5dca1795-85ce8eba-13d5bc24.mp3]"
+                            ],
+                            "guid": "A|a><jG>!B",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "走[はし]る",
+                                "<b>laufen, rennen</b>",
+                                "<img src=\"走.png\">",
+                                "[sound:googletts-1e0809ac-db3ca33d-41af319d-ba8cd36f-78841c9c.mp3]"
+                            ],
+                            "guid": "i}vI~nGd-i",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いる",
+                                "<b>brauchen, benötigen</b>",
+                                "",
+                                "[sound:googletts-ebbfc638-71d0ab53-8ac225c4-566a1cd5-391542d7.mp3]"
+                            ],
+                            "guid": "ed_~l|*P:s",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "帰[かえ]る",
+                                "<b>nach Hause gehen</b>",
+                                "<img src=\"帰.png\">",
+                                "[sound:googletts-6e8f6094-7674990d-6828585d-c8484caf-807e6bcb.mp3]"
+                            ],
+                            "guid": "NupOL7ga@W",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "限[かぎ]る",
+                                "<b>limitieren</b>",
+                                "<img src=\"限.png\">",
+                                "[sound:googletts-c65b9e80-694f157a-ce45d3ab-e26d1ba9-ad41b863.mp3]"
+                            ],
+                            "guid": "JOF+$6#T,0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "切[き]る",
+                                "<b>schneiden</b>",
+                                "<img src=\"切.png\">",
+                                "[sound:googletts-fe9a4307-ac7f2540-a68b3975-a4a7e9b8-fbf284fc.mp3]"
+                            ],
+                            "guid": "slKRrOMyB<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "喋[しゃべ]る",
+                                "<b>sprechen</b>",
+                                "<img src=\"喋.png\">",
+                                "[sound:googletts-bc645647-e5a8eb06-bc2c28e3-a7821115-a4f2a660.mp3]"
+                            ],
+                            "guid": "B+pd(f;%.O",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "知[し]る",
+                                "<b>wissen</b>",
+                                "<img src=\"知.png\">",
+                                "[sound:googletts-f7e5e3f8-361c6a10-73d80384-88ebbed3-28c20731.mp3]"
+                            ],
+                            "guid": "BKQ/NH%4}<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "蹴[け]る",
+                                "<b>treten</b>",
+                                "<img src=\"蹴.png\">",
+                                "[sound:googletts-ea453315-a90c4831-34a291ec-ee6104f2-09812dc2.mp3]"
+                            ],
+                            "guid": "g4_w^k5Uc4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "滑[すべ]る",
+                                "<b>gleiten, rutschen</b>",
+                                "<img src=\"滑.png\">",
+                                "[sound:googletts-e6f5843e-44dc421f-edf1f3d6-640eb828-f5a47c80.mp3]"
+                            ],
+                            "guid": "vUkZ:BN?v0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "来[く]る",
+                                "<b>kommen</b>",
+                                "<img src=\"来.png\">",
+                                "[sound:googletts-e19d9832-bd3637bd-a75912c8-737dc197-bc2ce0b6.mp3]"
+                            ],
+                            "guid": "iVAsX[EFII",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "する",
+                                "etw. tun",
+                                "",
+                                "[sound:googletts-9230f95d-c6c92503-a11b3aee-c2dafe1b-8bb02a53.mp3]"
+                            ],
+                            "guid": "FVzlgEA?xs",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "97b51a18-e99b-11ec-9fac-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "paste-2de181a1fc5d8f8de7bf3341e20f1715f9e82024.jpg",
+                        "paste-51721947da0cf1dd54d2d47e731c183b74519b6f.jpg",
+                        "paste-aa03fb3b8dc714d9c18602494226570f7d7e5e03.jpg",
+                        "paste-b008504d7a10d9233302e9e99c29c7c5920c12ab.jpg",
+                        "paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg"
+                    ],
+                    "name": "02 Grammatik",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was betont die Partikel は?",
+                                "は betont das was <u>danach </u>kommt.<br><br>これは 大[おお]きい 犬[いぬ]です。-This, <u>it‘s a big dog!</u>"
+                            ],
+                            "guid": "u>dB16</47",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was betont die Partikel が?",
+                                "が betont das was&nbsp;<u>davor</u>&nbsp;kommt.<br><br>これが 大[おお]きい 犬[いぬ]です。<u>This right here</u>, is a big dog!"
+                            ],
+                            "guid": "E>?DhBc$*,",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Partikel muss bei Fragewörten benutzt werden?",
+                                "Bei Fragewörtern muss die Partikel が verwendet werden.<br><br>誰[だれ]が行[い]きますか。– <u>Who </u>will go?"
+                            ],
+                            "guid": "pY2$tkEaUu",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Partikel kann verwendet werden um Kontraste darzustellen?",
+                                "Die Partikel は kann verwendet werden, um Kontraste darzustellen.<br><br>バナナは好[す]きです。(は impliziert, dass es Dinge gibt die ich nicht mag, aber Bananen mag ich!\nMan steht zum Beispiel vor einem Tisch mit Essen, und mag davon nur die Bananen.)"
+                            ],
+                            "guid": "GsTh[]3FK%",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welche Gruppen können Verben aufgeteilt werden?",
+                                "- <b>Godan </b>Verben<br>- <b>Ichidan </b>Verben (enden auf -いる, oder -える, bis auf 10 Ausnahmen)<br>- <b>Irreguläre</b> Verben"
+                            ],
+                            "guid": "xyOFZ^MnOa",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Worauf enden alle Verben?",
+                                "Alle Verben enden auf den う-Sound.<br>う・く・す・つ・ぬ・む・ぐ・ぶ・る"
+                            ],
+                            "guid": "A#Xy@y=OhN",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die <u>Present Tense</u>&nbsp;Form der Godan Verben gebildet?",
+                                "1. Zuerst wird die う-Endung zum passenden い-Sound geändert.<br><img src=\"paste-2de181a1fc5d8f8de7bf3341e20f1715f9e82024.jpg\"><br>2. Danach wird <u>ます</u>&nbsp;an das veränderte Verb angehägt.<br><img src=\"paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg\"><br><img src=\"paste-b008504d7a10d9233302e9e99c29c7c5920c12ab.jpg\">"
+                            ],
+                            "guid": "q~h.A@m:)3",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die <u>Present Tense</u>&nbsp;Form der Ichidan Verben gebildet?",
+                                "Das る wird weggelassen und ます angehängt.<br><img src=\"paste-aa03fb3b8dc714d9c18602494226570f7d7e5e03.jpg\">"
+                            ],
+                            "guid": "QKx6gRxkRV",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche 10 Verben die auf -いる und -える gehören dennoch den Godan-Verben an?",
+                                "- 入[はい]る<br>- 走[はし]る<br>- いる<br>- 帰[かえ]る<br>- 限[かぎ]る<br>- 切[き]る<br>- 喋[しゃべ]る<br>- 喋[しゃべ]る<br>- 知[し]る<br>- 蹴[け]る<br>- 滑[すべ]る"
+                            ],
+                            "guid": "v!4vuScyh7",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie heißt der Satz, mit dem man sich die 10 Ichiban Ausnahme Verben merken kann?",
+                                "I <b>needed </b>to <b>know </b>how to <b>cut </b>onions properly to <b>limit </b>the number of tears in the kitchen, so I <b>slid </b>down the hill, ran to my friend’s house, <b>kicked </b>his door in, <b>entered </b>his house, <b>spoke </b>with him for a bit and then <b>went back home</b>."
+                            ],
+                            "guid": "Jq(_F<c<KB",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche irregulären Verben im <u>Present Tense</u>&nbsp;gibt es?",
+                                "<img src=\"paste-51721947da0cf1dd54d2d47e731c183b74519b6f.jpg\">"
+                            ],
+                            "guid": "b@/1sVCCTp",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was besagt das Japanische <u>Present Tense</u>&nbsp;aus?",
+                                "- Alltägliche Aktionen<br>- Zukünftige Aktionen<br>- Keine aktuell laufenden Aktionen"
+                            ],
+                            "guid": "qFpIE/rux+",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "97b60479-e99b-11ec-9339-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "googletts-8256e4df-af60e566-03d9b8ad-4e897c62-13afa195.mp3"
+                    ],
+                    "name": "03 Sätze",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "バナナが 好[す]きです。",
+                                "Ich <b>mag </b>Bananen.",
+                                "[sound:googletts-8256e4df-af60e566-03d9b8ad-4e897c62-13afa195.mp3]"
+                            ],
+                            "guid": "I=VUw~!p^=",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
             "crowdanki_uuid": "2b2233cb-e816-11ec-a8ab-0c7a15ee466f",
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
@@ -11,21 +571,9 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
+            "mid": 1642765939199,
             "name": "03 Lektion",
-            "notes": [
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "歌[うた]う",
-                        "singen",
-                        "",
-                        ""
-                    ],
-                    "guid": "t8qCXr{pHx",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
-                }
-            ]
+            "notes": []
         }
     ],
     "crowdanki_uuid": "2c70fdf5-e815-11ec-bf14-0c7a15ee466f",
@@ -71,6 +619,55 @@
             "replayq": true,
             "rev": {
                 "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 3
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
@@ -174,6 +771,142 @@
                     "name": "Vokabel: Deutsch -> Japanisch",
                     "ord": 1,
                     "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Deutsch}}</p>"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Frage",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Antwort",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Grammatik",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Antwort}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Grammatikfrage",
+                    "ord": 0,
+                    "qfmt": "{{furigana:Frage}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Japanisch",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Deutsch",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "TTS",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Satz",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        2
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{furigana:Japanisch}}\n\n<hr id=answer>\n\n{{Deutsch}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Satz: Japanisch -> Deutsch",
+                    "ord": 0,
+                    "qfmt": "{{kanji:Japanisch}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Japanisch}}\n{{#TTS}}<br>{{TTS}}<br>{{/TTS}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Satz: Deutsch -> Japanisch",
+                    "ord": 1,
+                    "qfmt": "{{Deutsch}}"
                 }
             ],
             "type": 0
