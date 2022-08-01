@@ -7,6 +7,491 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "31cc7421-0ccb-11ed-b4c5-6245b50ff1c6",
+                    "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "mid": 1649145573113,
+                    "name": "01",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こうこう",
+                                "high school",
+                                "",
+                                ""
+                            ],
+                            "guid": "JP1+gDG[!p",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ごご",
+                                "p.m.",
+                                "",
+                                ""
+                            ],
+                            "guid": "EU2II2<k`L",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ごぜん",
+                                "a.m.",
+                                "",
+                                ""
+                            ],
+                            "guid": "sA5c%DO3Jc",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "せんこう",
+                                "major (Fach)",
+                                "",
+                                ""
+                            ],
+                            "guid": "NydoxpN~sf",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かんこく",
+                                "Korea",
+                                "",
+                                ""
+                            ],
+                            "guid": "r(<vjZUYJP",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ちゅうごく",
+                                "China",
+                                "",
+                                ""
+                            ],
+                            "guid": "BSdVhvJjW`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かがく",
+                                "science",
+                                "",
+                                ""
+                            ],
+                            "guid": "oCFman2AK+",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "けいざい",
+                                "economics",
+                                "",
+                                ""
+                            ],
+                            "guid": "y:.b?qm%{m",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "国際関係[こくさいかんけい]",
+                                "<b>international relations</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "B6[Ndpu<Qd",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "せいじ",
+                                "politics",
+                                "",
+                                ""
+                            ],
+                            "guid": "e,Y6kM^iq%",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "文学[ぶんがく]",
+                                "<b>literature</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "YGR:;c4T*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いもうと",
+                                "younger sister",
+                                "",
+                                ""
+                            ],
+                            "guid": "KHFF.>EgmH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おとうと",
+                                "younger brother",
+                                "",
+                                ""
+                            ],
+                            "guid": "GA7Uynb^Eb",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "やさい",
+                                "vegetable",
+                                "",
+                                ""
+                            ],
+                            "guid": "b4y{?eHy%|",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "えんぴつ",
+                                "pencil",
+                                "",
+                                ""
+                            ],
+                            "guid": "NyJZoGB]AH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かばん",
+                                "bag",
+                                "",
+                                ""
+                            ],
+                            "guid": "ip8w#L[j;`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さいふ",
+                                "wallet",
+                                "",
+                                ""
+                            ],
+                            "guid": "z10>-U_Rcx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じしょ",
+                                "dictionary",
+                                "",
+                                ""
+                            ],
+                            "guid": "P:xE]@%H#x",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じてんしゃ",
+                                "bicycle",
+                                "",
+                                ""
+                            ],
+                            "guid": "N}O3jMw<M-",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しんぶん",
+                                "newspaper",
+                                "",
+                                ""
+                            ],
+                            "guid": "uJKc!6]Grj",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きっさてん",
+                                "cafe",
+                                "",
+                                ""
+                            ],
+                            "guid": "g^u>vdtq?*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぎんこう",
+                                "bank",
+                                "",
+                                ""
+                            ],
+                            "guid": "j=H~M3jK`m",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "図書館[としょかん]",
+                                "<b>library</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "z)Q1?B^+2v",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ゆうびんきょく",
+                                "post office",
+                                "",
+                                ""
+                            ],
+                            "guid": "h@0>)/HDsy",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "家[いえ]",
+                                "<b>home, house</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "FYepK~?CL5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "うち",
+                                "home, house, my place",
+                                "",
+                                ""
+                            ],
+                            "guid": "BItKYE5/A{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつ",
+                                "when",
+                                "",
+                                ""
+                            ],
+                            "guid": "LsvzsWdG1-",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "～ごろ",
+                                "at about...",
+                                "",
+                                ""
+                            ],
+                            "guid": "C+S}bj9$#w",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あまり+negative",
+                                "not much",
+                                "",
+                                ""
+                            ],
+                            "guid": "Q`&0O1(aS;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぜんぜん+negative",
+                                "not at all",
+                                "",
+                                ""
+                            ],
+                            "guid": "OL:e6oR:ez",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たいてい",
+                                "usually",
+                                "",
+                                ""
+                            ],
+                            "guid": "Et2cqlE@Rj",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いす",
+                                "chair",
+                                "",
+                                ""
+                            ],
+                            "guid": "l*a,=w$!rT",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おみやげ",
+                                "souvenir",
+                                "",
+                                ""
+                            ],
+                            "guid": "Ai|XQ}=m#V",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "つくえ",
+                                "desk",
+                                "",
+                                ""
+                            ],
+                            "guid": "o4OSXc6Vu<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "お寺[てら]",
+                                "<b>temple</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "pBQF;+aB[s",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "公園[こうえん]",
+                                "<b>park</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "M8f@*:l$%G",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "バス停[てい]",
+                                "bus <b>stop</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "ojrjd{JgYi",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "病院[びょういん]",
+                                "<b>hospital</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "LCWnZdWr?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "03fe48ae-11db-11ed-9f9b-3c58c2d0fe16",
+            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "01 Lektion",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "2f8b1b8b-e99f-11ec-8005-3c58c2d0fe16",
                     "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
                     "desc": "",
@@ -743,491 +1228,6 @@
             "mid": 1642765939199,
             "name": "03 Lektion",
             "notes": []
-        },
-        {
-            "__type__": "Deck",
-            "children": [
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "31cc7421-0ccb-11ed-b4c5-6245b50ff1c6",
-                    "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [],
-                    "mid": 1649145573113,
-                    "name": "01",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "こうこう",
-                                "high school",
-                                "",
-                                ""
-                            ],
-                            "guid": "JP1+gDG[!p",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ごご",
-                                "p.m.",
-                                "",
-                                ""
-                            ],
-                            "guid": "EU2II2<k`L",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ごぜん",
-                                "a.m.",
-                                "",
-                                ""
-                            ],
-                            "guid": "sA5c%DO3Jc",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "せんこう",
-                                "major (Fach)",
-                                "",
-                                ""
-                            ],
-                            "guid": "NydoxpN~sf",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "かんこく",
-                                "Korea",
-                                "",
-                                ""
-                            ],
-                            "guid": "r(<vjZUYJP",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ちゅうごく",
-                                "China",
-                                "",
-                                ""
-                            ],
-                            "guid": "BSdVhvJjW`",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "かがく",
-                                "science",
-                                "",
-                                ""
-                            ],
-                            "guid": "oCFman2AK+",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "けいざい",
-                                "economics",
-                                "",
-                                ""
-                            ],
-                            "guid": "y:.b?qm%{m",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "国際関係[こくさいかんけい]",
-                                "<b>international relations</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "B6[Ndpu<Qd",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "せいじ",
-                                "politics",
-                                "",
-                                ""
-                            ],
-                            "guid": "e,Y6kM^iq%",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "文学[ぶんがく]",
-                                "<b>literature</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "YGR:;c4T*",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いもうと",
-                                "younger sister",
-                                "",
-                                ""
-                            ],
-                            "guid": "KHFF.>EgmH",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "おとうと",
-                                "younger brother",
-                                "",
-                                ""
-                            ],
-                            "guid": "GA7Uynb^Eb",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "やさい",
-                                "vegetable",
-                                "",
-                                ""
-                            ],
-                            "guid": "b4y{?eHy%|",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "えんぴつ",
-                                "pencil",
-                                "",
-                                ""
-                            ],
-                            "guid": "NyJZoGB]AH",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "かばん",
-                                "bag",
-                                "",
-                                ""
-                            ],
-                            "guid": "ip8w#L[j;`",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "さいふ",
-                                "wallet",
-                                "",
-                                ""
-                            ],
-                            "guid": "z10>-U_Rcx",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "じしょ",
-                                "dictionary",
-                                "",
-                                ""
-                            ],
-                            "guid": "P:xE]@%H#x",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "じてんしゃ",
-                                "bicycle",
-                                "",
-                                ""
-                            ],
-                            "guid": "N}O3jMw<M-",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "しんぶん",
-                                "newspaper",
-                                "",
-                                ""
-                            ],
-                            "guid": "uJKc!6]Grj",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "きっさてん",
-                                "cafe",
-                                "",
-                                ""
-                            ],
-                            "guid": "g^u>vdtq?*",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ぎんこう",
-                                "bank",
-                                "",
-                                ""
-                            ],
-                            "guid": "j=H~M3jK`m",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "図書館[としょかん]",
-                                "<b>library</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "z)Q1?B^+2v",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ゆうびんきょく",
-                                "post office",
-                                "",
-                                ""
-                            ],
-                            "guid": "h@0>)/HDsy",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "家[いえ]",
-                                "<b>home, house</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "FYepK~?CL5",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "うち",
-                                "home, house, my place",
-                                "",
-                                ""
-                            ],
-                            "guid": "BItKYE5/A{",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつ",
-                                "when",
-                                "",
-                                ""
-                            ],
-                            "guid": "LsvzsWdG1-",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "～ごろ",
-                                "at about...",
-                                "",
-                                ""
-                            ],
-                            "guid": "C+S}bj9$#w",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "あまり+negative",
-                                "not much",
-                                "",
-                                ""
-                            ],
-                            "guid": "Q`&0O1(aS;",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ぜんぜん+negative",
-                                "not at all",
-                                "",
-                                ""
-                            ],
-                            "guid": "OL:e6oR:ez",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "たいてい",
-                                "usually",
-                                "",
-                                ""
-                            ],
-                            "guid": "Et2cqlE@Rj",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いす",
-                                "chair",
-                                "",
-                                ""
-                            ],
-                            "guid": "l*a,=w$!rT",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "おみやげ",
-                                "souvenir",
-                                "",
-                                ""
-                            ],
-                            "guid": "Ai|XQ}=m#V",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "つくえ",
-                                "desk",
-                                "",
-                                ""
-                            ],
-                            "guid": "o4OSXc6Vu<",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "お寺[てら]",
-                                "<b>temple</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "pBQF;+aB[s",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "公園[こうえん]",
-                                "<b>park</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "M8f@*:l$%G",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "バス停[てい]",
-                                "bus <b>stop</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "ojrjd{JgYi",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "病院[びょういん]",
-                                "<b>hospital</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "LCWnZdWr?",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        }
-                    ]
-                }
-            ],
-            "crowdanki_uuid": "31cbd7bc-0ccb-11ed-b2e1-6245b50ff1c6",
-            "deck_config_uuid": "31cbd7bd-0ccb-11ed-a5ea-6245b50ff1c6",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "Vokabeln",
-            "notes": []
         }
     ],
     "crowdanki_uuid": "2c70fdf5-e815-11ec-bf14-0c7a15ee466f",
@@ -1264,7 +1264,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 20
+                "perDay": 2
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -1313,7 +1313,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 3
+                "perDay": 2
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -1327,57 +1327,6 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "crowdanki_uuid": "31cbd7bd-0ccb-11ed-a5ea-6245b50ff1c6",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 30,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "minSpace": 1,
-                "perDay": 300
             },
             "reviewOrder": 0,
             "timer": 0
