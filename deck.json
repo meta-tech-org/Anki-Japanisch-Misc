@@ -13,7 +13,54 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "googletts-08bc73b6-433cbba8-f0b98b91-6e3ba9c6-cd324ff7.mp3",
+                        "googletts-0a193d8c-4b235b73-5514c108-efd61f2a-f21f559d.mp3",
+                        "googletts-1b0d5e77-582ab858-116b1446-4fe2a411-8931ddaa.mp3",
+                        "googletts-1f9a7346-cea999bc-ebb1b785-b9861118-f176967b.mp3",
+                        "googletts-2dfaa188-02315335-7385cc0b-c522350c-f599e437.mp3",
+                        "googletts-2fc07741-cf9285f1-19d0fb9e-6f1c467b-1ced99e7.mp3",
+                        "googletts-2ff6cff0-64f8eeef-296c08bf-351f6f3a-912660fb.mp3",
+                        "googletts-3cea492e-136d9f61-97a5e14d-f7102fea-4d375e3a.mp3",
+                        "googletts-45d5c5d3-b6fb1f63-4cdf4cef-fe088c80-f91b5ee8.mp3",
+                        "googletts-4b3418c4-82365115-3cd7bfdf-48c7a146-b17c77d8.mp3",
+                        "googletts-50afca9d-07d433ef-9e2fc49e-8243d4bb-94749ab8.mp3",
+                        "googletts-56b9fe7c-46d44fc8-8fa06a3e-913186b0-f8faa55e.mp3",
+                        "googletts-59497dc4-1cd470a7-599da030-7dd477a5-25c9a683.mp3",
+                        "googletts-6364bed1-2d67780a-98a40b20-07def706-db0bba92.mp3",
+                        "googletts-6a8720f1-a2d37ffc-41e268b8-7f1e6816-dfaef061.mp3",
+                        "googletts-6d9bce26-ce637a4a-2b180416-fcf0b5f6-aaececb5.mp3",
+                        "googletts-77364800-90457977-f3ddfbbe-7169866a-207459de.mp3",
+                        "googletts-7c90b0c2-117d7f97-0493570c-5dc4a09b-046b24e3.mp3",
+                        "googletts-819d1e4d-9d9420c7-64ab85b2-f1f77435-31873ac1.mp3",
+                        "googletts-9054203b-9d87f0e6-ceb3f385-c364b648-780e7e50.mp3",
+                        "googletts-95890f70-bab4a23e-5cb96bec-09043751-30f87219.mp3",
+                        "googletts-a0398d02-30362a00-51dbe24d-2d9644b1-95acc036.mp3",
+                        "googletts-a17a48be-265ca6e9-bd0f2089-6e2b09c0-88e5a66f.mp3",
+                        "googletts-a20f32c1-e1af69e1-52a415fe-c6a2bf55-341b3a77.mp3",
+                        "googletts-a580a776-f731c22f-77514060-14a0f0b6-be7b7d13.mp3",
+                        "googletts-c498faeb-5b7babc8-52001a1e-00f9701e-f4d9dce8.mp3",
+                        "googletts-c7a37f27-4b61a03e-15999fe9-2128dd92-c2eb05ee.mp3",
+                        "googletts-d033f251-a53e77c8-4a7b467a-055e9359-66343be9.mp3",
+                        "googletts-d5ee707c-803b0800-1efdcda4-c84b1cba-c4562403.mp3",
+                        "googletts-da04aed8-7ddef542-4e42958d-a6721a91-b5998817.mp3",
+                        "googletts-dae26791-6b232734-55eca866-1eb2fa69-0f42df1f.mp3",
+                        "googletts-f4000a10-c6e99097-a485130d-ba431c30-6dfd05cb.mp3",
+                        "googletts-f73eeb68-56b9aaf8-7ead308e-64b19232-6e825101.mp3",
+                        "googletts-f7be9f26-7e3b7d22-15795648-b10345b5-0dc90d60.mp3",
+                        "googletts-f9c7f6aa-acc83dcd-c502d0ff-2bb94709-260d4d38.mp3",
+                        "googletts-fae9f798-3f32dfec-b54b8630-295382d7-3a662dde.mp3",
+                        "googletts-fb2e7220-674cc3de-e960d2cf-9533ccd2-56cd0287.mp3",
+                        "googletts-fbaeebac-15b9dc69-8cdede52-42a16cf3-4b033208.mp3",
+                        "停.png",
+                        "公園.png",
+                        "図書館.png",
+                        "国際関係.png",
+                        "家.png",
+                        "寺.png",
+                        "文学.png",
+                        "病院.png"
+                    ],
                     "mid": 1649145573113,
                     "name": "01 Vokabeln",
                     "notes": [
@@ -21,9 +68,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "こうこう",
-                                "high school",
+                                "weiterführende Schule",
                                 "",
-                                ""
+                                "[sound:googletts-f9c7f6aa-acc83dcd-c502d0ff-2bb94709-260d4d38.mp3]"
                             ],
                             "guid": "JP1+gDG[!p",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -33,9 +80,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "ごご",
-                                "p.m.",
+                                "Nachmittags",
                                 "",
-                                ""
+                                "[sound:googletts-08bc73b6-433cbba8-f0b98b91-6e3ba9c6-cd324ff7.mp3]"
                             ],
                             "guid": "EU2II2<k`L",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -45,9 +92,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "ごぜん",
-                                "a.m.",
+                                "Vormittags",
                                 "",
-                                ""
+                                "[sound:googletts-95890f70-bab4a23e-5cb96bec-09043751-30f87219.mp3]"
                             ],
                             "guid": "sA5c%DO3Jc",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -57,9 +104,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "せんこう",
-                                "major (Fach)",
+                                "Fach (Hauptfach)",
                                 "",
-                                ""
+                                "[sound:googletts-a0398d02-30362a00-51dbe24d-2d9644b1-95acc036.mp3]"
                             ],
                             "guid": "NydoxpN~sf",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -71,7 +118,7 @@
                                 "かんこく",
                                 "Korea",
                                 "",
-                                ""
+                                "[sound:googletts-d5ee707c-803b0800-1efdcda4-c84b1cba-c4562403.mp3]"
                             ],
                             "guid": "r(<vjZUYJP",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -83,7 +130,7 @@
                                 "ちゅうごく",
                                 "China",
                                 "",
-                                ""
+                                "[sound:googletts-a580a776-f731c22f-77514060-14a0f0b6-be7b7d13.mp3]"
                             ],
                             "guid": "BSdVhvJjW`",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -93,9 +140,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "かがく",
-                                "science",
+                                "Wissenschaft",
                                 "",
-                                ""
+                                "[sound:googletts-77364800-90457977-f3ddfbbe-7169866a-207459de.mp3]"
                             ],
                             "guid": "oCFman2AK+",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -105,9 +152,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "けいざい",
-                                "economics",
+                                "Wirtschaft",
                                 "",
-                                ""
+                                "[sound:googletts-45d5c5d3-b6fb1f63-4cdf4cef-fe088c80-f91b5ee8.mp3]"
                             ],
                             "guid": "y:.b?qm%{m",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -117,9 +164,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "国際関係[こくさいかんけい]",
-                                "<b>international relations</b>",
-                                "",
-                                ""
+                                "<b>internationale Beziehungen</b>",
+                                "<img src=\"国際関係.png\">",
+                                "[sound:googletts-a20f32c1-e1af69e1-52a415fe-c6a2bf55-341b3a77.mp3]"
                             ],
                             "guid": "B6[Ndpu<Qd",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -129,9 +176,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "せいじ",
-                                "politics",
+                                "Politik",
                                 "",
-                                ""
+                                "[sound:googletts-fae9f798-3f32dfec-b54b8630-295382d7-3a662dde.mp3]"
                             ],
                             "guid": "e,Y6kM^iq%",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -141,9 +188,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "文学[ぶんがく]",
-                                "<b>literature</b>",
-                                "",
-                                ""
+                                "<b>Literatur</b>",
+                                "<img src=\"文学.png\">",
+                                "[sound:googletts-a17a48be-265ca6e9-bd0f2089-6e2b09c0-88e5a66f.mp3]"
                             ],
                             "guid": "YGR:;c4T*",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -153,9 +200,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "いもうと",
-                                "younger sister",
+                                "jüngere Schwester",
                                 "",
-                                ""
+                                "[sound:googletts-9054203b-9d87f0e6-ceb3f385-c364b648-780e7e50.mp3]"
                             ],
                             "guid": "KHFF.>EgmH",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -165,9 +212,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "おとうと",
-                                "younger brother",
+                                "jüngerer Bruder",
                                 "",
-                                ""
+                                "[sound:googletts-2ff6cff0-64f8eeef-296c08bf-351f6f3a-912660fb.mp3]"
                             ],
                             "guid": "GA7Uynb^Eb",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -177,9 +224,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "やさい",
-                                "vegetable",
+                                "Gemüse",
                                 "",
-                                ""
+                                "[sound:googletts-da04aed8-7ddef542-4e42958d-a6721a91-b5998817.mp3]"
                             ],
                             "guid": "b4y{?eHy%|",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -189,9 +236,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "えんぴつ",
-                                "pencil",
+                                "Bleistift",
                                 "",
-                                ""
+                                "[sound:googletts-fb2e7220-674cc3de-e960d2cf-9533ccd2-56cd0287.mp3]"
                             ],
                             "guid": "NyJZoGB]AH",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -201,9 +248,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "かばん",
-                                "bag",
+                                "Tasche",
                                 "",
-                                ""
+                                "[sound:googletts-fbaeebac-15b9dc69-8cdede52-42a16cf3-4b033208.mp3]"
                             ],
                             "guid": "ip8w#L[j;`",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -213,9 +260,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "さいふ",
-                                "wallet",
+                                "Portemonnaie",
                                 "",
-                                ""
+                                "[sound:googletts-50afca9d-07d433ef-9e2fc49e-8243d4bb-94749ab8.mp3]"
                             ],
                             "guid": "z10>-U_Rcx",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -225,9 +272,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "じしょ",
-                                "dictionary",
+                                "Wörterbuch",
                                 "",
-                                ""
+                                "[sound:googletts-2dfaa188-02315335-7385cc0b-c522350c-f599e437.mp3]"
                             ],
                             "guid": "P:xE]@%H#x",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -237,9 +284,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "じてんしゃ",
-                                "bicycle",
+                                "Fahrrad",
                                 "",
-                                ""
+                                "[sound:googletts-f73eeb68-56b9aaf8-7ead308e-64b19232-6e825101.mp3]"
                             ],
                             "guid": "N}O3jMw<M-",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -249,9 +296,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "しんぶん",
-                                "newspaper",
+                                "Zeitung",
                                 "",
-                                ""
+                                "[sound:googletts-6a8720f1-a2d37ffc-41e268b8-7f1e6816-dfaef061.mp3]"
                             ],
                             "guid": "uJKc!6]Grj",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -261,9 +308,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "きっさてん",
-                                "cafe",
+                                "Teehaus, Cafè",
                                 "",
-                                ""
+                                "[sound:googletts-c498faeb-5b7babc8-52001a1e-00f9701e-f4d9dce8.mp3]"
                             ],
                             "guid": "g^u>vdtq?*",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -273,9 +320,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "ぎんこう",
-                                "bank",
+                                "Bank",
                                 "",
-                                ""
+                                "[sound:googletts-3cea492e-136d9f61-97a5e14d-f7102fea-4d375e3a.mp3]"
                             ],
                             "guid": "j=H~M3jK`m",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -285,9 +332,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "図書館[としょかん]",
-                                "<b>library</b>",
-                                "",
-                                ""
+                                "<b>Bibliothek, Bücherei</b>",
+                                "<img src=\"図書館.png\">",
+                                "[sound:googletts-819d1e4d-9d9420c7-64ab85b2-f1f77435-31873ac1.mp3]"
                             ],
                             "guid": "z)Q1?B^+2v",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -297,9 +344,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "ゆうびんきょく",
-                                "post office",
+                                "Postamt",
                                 "",
-                                ""
+                                "[sound:googletts-1f9a7346-cea999bc-ebb1b785-b9861118-f176967b.mp3]"
                             ],
                             "guid": "h@0>)/HDsy",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -309,9 +356,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "家[いえ]",
-                                "<b>home, house</b>",
-                                "",
-                                ""
+                                "<b>Haus, Gebäude, Wohnung, Zuhause, Heim</b>",
+                                "<img src=\"家.png\">",
+                                "[sound:googletts-59497dc4-1cd470a7-599da030-7dd477a5-25c9a683.mp3]"
                             ],
                             "guid": "FYepK~?CL5",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -321,9 +368,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "うち",
-                                "home, house, my place",
+                                "Inneres, innen, drinnen, eigenes Haus",
                                 "",
-                                ""
+                                "[sound:googletts-6d9bce26-ce637a4a-2b180416-fcf0b5f6-aaececb5.mp3]"
                             ],
                             "guid": "BItKYE5/A{",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -333,9 +380,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "いつ",
-                                "when",
+                                "wann",
                                 "",
-                                ""
+                                "[sound:googletts-4b3418c4-82365115-3cd7bfdf-48c7a146-b17c77d8.mp3]"
                             ],
                             "guid": "LsvzsWdG1-",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -345,9 +392,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "～ごろ",
-                                "at about...",
+                                "Um ungefähr... (zeitlich)",
                                 "",
-                                ""
+                                "[sound:googletts-f4000a10-c6e99097-a485130d-ba431c30-6dfd05cb.mp3]"
                             ],
                             "guid": "C+S}bj9$#w",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -357,9 +404,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "あまり+negative",
-                                "not much",
+                                "nicht viel",
                                 "",
-                                ""
+                                "[sound:googletts-1b0d5e77-582ab858-116b1446-4fe2a411-8931ddaa.mp3]"
                             ],
                             "guid": "Q`&0O1(aS;",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -369,9 +416,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "ぜんぜん+negative",
-                                "not at all",
+                                "überhaupt nicht",
                                 "",
-                                ""
+                                "[sound:googletts-6364bed1-2d67780a-98a40b20-07def706-db0bba92.mp3]"
                             ],
                             "guid": "OL:e6oR:ez",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -381,9 +428,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "たいてい",
-                                "usually",
+                                "meistens",
                                 "",
-                                ""
+                                "[sound:googletts-0a193d8c-4b235b73-5514c108-efd61f2a-f21f559d.mp3]"
                             ],
                             "guid": "Et2cqlE@Rj",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -393,9 +440,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "いす",
-                                "chair",
+                                "Stuhl",
                                 "",
-                                ""
+                                "[sound:googletts-56b9fe7c-46d44fc8-8fa06a3e-913186b0-f8faa55e.mp3]"
                             ],
                             "guid": "l*a,=w$!rT",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -405,9 +452,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "おみやげ",
-                                "souvenir",
+                                "Souvenir",
                                 "",
-                                ""
+                                "[sound:googletts-dae26791-6b232734-55eca866-1eb2fa69-0f42df1f.mp3]"
                             ],
                             "guid": "Ai|XQ}=m#V",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -417,9 +464,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "つくえ",
-                                "desk",
+                                "Schreibtisch",
                                 "",
-                                ""
+                                "[sound:googletts-d033f251-a53e77c8-4a7b467a-055e9359-66343be9.mp3]"
                             ],
                             "guid": "o4OSXc6Vu<",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -429,9 +476,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "お寺[てら]",
-                                "<b>temple</b>",
-                                "",
-                                ""
+                                "<b>Tempel</b>",
+                                "<img src=\"寺.png\">",
+                                "[sound:googletts-f7be9f26-7e3b7d22-15795648-b10345b5-0dc90d60.mp3]"
                             ],
                             "guid": "pBQF;+aB[s",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -441,9 +488,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "公園[こうえん]",
-                                "<b>park</b>",
-                                "",
-                                ""
+                                "<b>öffentlicher Park, öffentliche Anlage</b>",
+                                "<img src=\"公園.png\">",
+                                "[sound:googletts-7c90b0c2-117d7f97-0493570c-5dc4a09b-046b24e3.mp3]"
                             ],
                             "guid": "M8f@*:l$%G",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -453,9 +500,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "バス停[てい]",
-                                "bus <b>stop</b>",
-                                "",
-                                ""
+                                "Bus<b>haltestelle</b>",
+                                "<img src=\"停.png\">",
+                                "[sound:googletts-c7a37f27-4b61a03e-15999fe9-2128dd92-c2eb05ee.mp3]"
                             ],
                             "guid": "ojrjd{JgYi",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -465,9 +512,9 @@
                             "__type__": "Note",
                             "fields": [
                                 "病院[びょういん]",
-                                "<b>hospital</b>",
-                                "",
-                                ""
+                                "<b>Krankenhaus, Klinik</b>",
+                                "<img src=\"病院.png\">",
+                                "[sound:googletts-2fc07741-cf9285f1-19d0fb9e-6f1c467b-1ced99e7.mp3]"
                             ],
                             "guid": "LCWnZdWr?",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
