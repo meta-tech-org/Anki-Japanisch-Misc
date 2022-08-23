@@ -55,7 +55,6 @@
                         "停.png",
                         "公園.png",
                         "図書館.png",
-                        "国際関係.png",
                         "家.png",
                         "寺.png",
                         "文学.png",
@@ -63,6 +62,8 @@
                     ],
                     "mid": 1649145573113,
                     "name": "01 Vokabeln",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -163,14 +164,16 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "国際関係[こくさいかんけい]",
-                                "<b>internationale Beziehungen</b>",
-                                "<img src=\"国際関係.png\">",
+                                "こくさいかんけい",
+                                "internationale Beziehungen",
+                                "",
                                 "[sound:googletts-a20f32c1-e1af69e1-52a415fe-c6a2bf55-341b3a77.mp3]"
                             ],
                             "guid": "B6[Ndpu<Qd",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
+                            "tags": [
+                                "marked"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -520,7 +523,9 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "03fe48ae-11db-11ed-9f9b-3c58c2d0fe16",
@@ -531,7 +536,11 @@
             "extendRev": 0,
             "media_files": [],
             "name": "01 Lektion",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -568,6 +577,8 @@
                         "鞄.png"
                     ],
                     "name": "01 Vokabeln",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -689,7 +700,9 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "2f8a5842-e99f-11ec-bfac-3c58c2d0fe16",
@@ -700,7 +713,11 @@
             "extendRev": 0,
             "media_files": [],
             "name": "02 Lektion",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -770,12 +787,14 @@
                     ],
                     "mid": 1642764739085,
                     "name": "01 Vokabeln",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
                             "fields": [
                                 "歌[うた]う",
-                                "singen",
+                                "<b>singen</b>",
                                 "<img src=\"歌.png\">",
                                 "[sound:googletts-da17162d-9957a1ab-cdef9306-b95a2016-3d4b3f7c.mp3]"
                             ],
@@ -889,7 +908,9 @@
                             ],
                             "guid": "bxFkf)hG,4",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
+                            "tags": [
+                                "leech"
+                            ]
                         },
                         {
                             "__type__": "Note",
@@ -1095,7 +1116,9 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -1114,6 +1137,8 @@
                         "paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg"
                     ],
                     "name": "02 Grammatik",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1235,7 +1260,9 @@
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -1250,6 +1277,8 @@
                         "googletts-8256e4df-af60e566-03d9b8ad-4e897c62-13afa195.mp3"
                     ],
                     "name": "03 Sätze",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1262,7 +1291,9 @@
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 }
             ],
             "crowdanki_uuid": "2b2233cb-e816-11ec-a8ab-0c7a15ee466f",
@@ -1274,7 +1305,11 @@
             "media_files": [],
             "mid": 1642765939199,
             "name": "03 Lektion",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "2c70fdf5-e815-11ec-bf14-0c7a15ee466f",
@@ -1311,7 +1346,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 2
+                "perDay": 10
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -1381,6 +1416,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
             "crowdanki_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -1436,6 +1472,8 @@
     "extendRev": 0,
     "media_files": [],
     "name": "Japanisch Misc",
+    "newLimit": null,
+    "newLimitToday": null,
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -1664,5 +1702,7 @@
             "type": 0
         }
     ],
-    "notes": []
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
 }
