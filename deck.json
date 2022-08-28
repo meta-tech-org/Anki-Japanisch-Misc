@@ -14,53 +14,143 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "20241_frames.png",
+                        "20837_frames.png",
+                        "31435_frames.png",
+                        "38263_frames.png",
+                        "googletts-03c02c0b-87ef893f-6fdc9285-46f19b7a-abb48368.mp3",
                         "googletts-08bc73b6-433cbba8-f0b98b91-6e3ba9c6-cd324ff7.mp3",
                         "googletts-0a193d8c-4b235b73-5514c108-efd61f2a-f21f559d.mp3",
+                        "googletts-141b8b5f-f1b1340f-02768536-0648ee58-8efc1508-ff7e3dd98f76722d2358b39ffa8018ab35e22549.mp3",
+                        "googletts-16dc673c-e3c34166-14670cb3-fe5e9268-5a2e1dd4.mp3",
                         "googletts-1b0d5e77-582ab858-116b1446-4fe2a411-8931ddaa.mp3",
+                        "googletts-1b233414-b6561a73-22840e2a-f7d43340-fdc1646b.mp3",
+                        "googletts-1bd28271-d9f7489f-f7614cc2-e26a97af-40ef83af.mp3",
                         "googletts-1f9a7346-cea999bc-ebb1b785-b9861118-f176967b.mp3",
+                        "googletts-254ca0f8-ff5cd7ef-446008f2-79ae1f4e-109b7413.mp3",
+                        "googletts-26a942d3-cc0f0556-dd8c9b24-69c8ae76-84082880.mp3",
                         "googletts-2dfaa188-02315335-7385cc0b-c522350c-f599e437.mp3",
+                        "googletts-2f1a2693-266243b8-1e5cbf3b-cc98b35b-e187318d.mp3",
                         "googletts-2fc07741-cf9285f1-19d0fb9e-6f1c467b-1ced99e7.mp3",
                         "googletts-2ff6cff0-64f8eeef-296c08bf-351f6f3a-912660fb.mp3",
                         "googletts-3cea492e-136d9f61-97a5e14d-f7102fea-4d375e3a.mp3",
                         "googletts-45d5c5d3-b6fb1f63-4cdf4cef-fe088c80-f91b5ee8.mp3",
+                        "googletts-47d15c59-c0ea6d47-eef27965-d92f7737-b3feb19c.mp3",
+                        "googletts-48898925-bba9c841-cc933480-fe15d6ef-1b75756d.mp3",
+                        "googletts-4894d149-2ba79c6a-60347f56-1d91d5a6-3e4c42ad.mp3",
                         "googletts-4b3418c4-82365115-3cd7bfdf-48c7a146-b17c77d8.mp3",
+                        "googletts-4d1b7fee-99a7b772-376d405e-7298bde6-6ae9264c.mp3",
                         "googletts-50afca9d-07d433ef-9e2fc49e-8243d4bb-94749ab8.mp3",
+                        "googletts-51f162c8-610661f6-714eefae-0a1073c2-8b63f237.mp3",
                         "googletts-56b9fe7c-46d44fc8-8fa06a3e-913186b0-f8faa55e.mp3",
                         "googletts-59497dc4-1cd470a7-599da030-7dd477a5-25c9a683.mp3",
+                        "googletts-5960561b-78de1974-8c699a23-28097ab3-ee61a9a3.mp3",
+                        "googletts-5f5d3a60-94bd54d8-8fede532-6f33637f-4451b4ba.mp3",
+                        "googletts-6234f4d0-86d6f37a-42f53bad-64cf8def-53299c7b.mp3",
+                        "googletts-628e6b06-9df77d93-68230525-61e8b6d1-ec74e655.mp3",
                         "googletts-6364bed1-2d67780a-98a40b20-07def706-db0bba92.mp3",
+                        "googletts-69cbb278-c0453bf5-dc216014-fbdbb566-02fc7838.mp3",
                         "googletts-6a8720f1-a2d37ffc-41e268b8-7f1e6816-dfaef061.mp3",
                         "googletts-6d9bce26-ce637a4a-2b180416-fcf0b5f6-aaececb5.mp3",
+                        "googletts-766b4fcd-92d7bf29-96e29b70-146fa8d8-a42d0410.mp3",
                         "googletts-77364800-90457977-f3ddfbbe-7169866a-207459de.mp3",
                         "googletts-7c90b0c2-117d7f97-0493570c-5dc4a09b-046b24e3.mp3",
+                        "googletts-809d3a0a-8848b018-2ee95206-e8991ed3-21cb51f3.mp3",
+                        "googletts-8126d904-55a453af-78836437-c3b3f148-6ccfe6ac.mp3",
                         "googletts-819d1e4d-9d9420c7-64ab85b2-f1f77435-31873ac1.mp3",
+                        "googletts-835014bb-743f08df-a2c46f98-22b05c56-193258a7.mp3",
+                        "googletts-835184eb-577ce96b-77723b80-934fefed-9e13b0ba.mp3",
+                        "googletts-83fc288a-494351a9-e086b357-39e8ffb6-d345144b.mp3",
+                        "googletts-85e547dc-62f77268-14e92f69-d76f1559-77f443c4.mp3",
+                        "googletts-8ed8801e-d32ec714-b811d21d-a3a22e05-591ed69f.mp3",
+                        "googletts-8f51e0c9-4ad0c56b-6fb76718-38b21b80-fa7215fb.mp3",
                         "googletts-9054203b-9d87f0e6-ceb3f385-c364b648-780e7e50.mp3",
+                        "googletts-923ab0c0-31779eec-6a2a7175-2555f4c8-02d26a92.mp3",
+                        "googletts-9252f5e4-6d36879d-cb3846a3-47d5f962-09f444e9.mp3",
                         "googletts-95890f70-bab4a23e-5cb96bec-09043751-30f87219.mp3",
+                        "googletts-95d6c144-6983d0f5-2d82bb06-2604b8d9-9e60a1d3.mp3",
+                        "googletts-9c0ece9a-4f2c7f45-f0371621-f9f0ca9a-d96bfc2c.mp3",
+                        "googletts-9cece551-e824662c-44903b41-3f5c59b7-32f86637.mp3",
+                        "googletts-9d63444c-2a435b30-b401467a-ba918fd5-b0efd99d.mp3",
                         "googletts-a0398d02-30362a00-51dbe24d-2d9644b1-95acc036.mp3",
                         "googletts-a17a48be-265ca6e9-bd0f2089-6e2b09c0-88e5a66f.mp3",
                         "googletts-a20f32c1-e1af69e1-52a415fe-c6a2bf55-341b3a77.mp3",
+                        "googletts-a387c447-29d36931-bb04311a-5e9b0b59-9669e453.mp3",
                         "googletts-a580a776-f731c22f-77514060-14a0f0b6-be7b7d13.mp3",
+                        "googletts-a91ed314-bb15ade2-01b2e0ba-451ae723-f7b5e5f3.mp3",
+                        "googletts-acd3338d-7746a20a-990cf67b-9acd1942-b2c76830.mp3",
+                        "googletts-beae1c56-b487cbca-e1f50a35-3d75dd92-5808ddc6.mp3",
+                        "googletts-bfc37a2c-3d77f58c-bb30b9c5-edba6acf-5c3f8268.mp3",
+                        "googletts-c39afc71-59f0a0b4-b34df6cf-6c9f8af0-e1fecf57.mp3",
                         "googletts-c498faeb-5b7babc8-52001a1e-00f9701e-f4d9dce8.mp3",
+                        "googletts-c6e0dffc-73baf6e9-24a029c5-ba953cfa-c5c4b6bf.mp3",
                         "googletts-c7a37f27-4b61a03e-15999fe9-2128dd92-c2eb05ee.mp3",
+                        "googletts-cdb5b413-4a003907-0677c12a-cf06617c-b25083fe.mp3",
+                        "googletts-cff7d4da-f344d4cf-5dca1795-85ce8eba-13d5bc24.mp3",
                         "googletts-d033f251-a53e77c8-4a7b467a-055e9359-66343be9.mp3",
+                        "googletts-d5148efb-ebde1fab-6ae446b2-07ec67f7-ee5efb97.mp3",
+                        "googletts-d58d4192-f625b4f6-f233c974-ebcd9031-d894c29f.mp3",
+                        "googletts-d5db1589-8f58a3ad-53b22b11-1d8f15ae-37914f20.mp3",
                         "googletts-d5ee707c-803b0800-1efdcda4-c84b1cba-c4562403.mp3",
+                        "googletts-d973f17d-3e662fb1-e4b88e94-1e214bf3-630fec66.mp3",
                         "googletts-da04aed8-7ddef542-4e42958d-a6721a91-b5998817.mp3",
                         "googletts-dae26791-6b232734-55eca866-1eb2fa69-0f42df1f.mp3",
+                        "googletts-e1b8603b-802f0823-2a2f13c6-65cafde7-5831ee85.mp3",
+                        "googletts-e91d8136-5a1b033f-16440a1e-dc17cc9a-59c8a5ae.mp3",
+                        "googletts-f3177616-409c144f-a1526506-5dde5d18-40e416a9.mp3",
                         "googletts-f4000a10-c6e99097-a485130d-ba431c30-6dfd05cb.mp3",
                         "googletts-f73eeb68-56b9aaf8-7ead308e-64b19232-6e825101.mp3",
                         "googletts-f7be9f26-7e3b7d22-15795648-b10345b5-0dc90d60.mp3",
+                        "googletts-f812fa1a-1f7a415a-3c4b171b-35ff76f5-7547f8b4.mp3",
                         "googletts-f9c7f6aa-acc83dcd-c502d0ff-2bb94709-260d4d38.mp3",
                         "googletts-fae9f798-3f32dfec-b54b8630-295382d7-3a662dde.mp3",
                         "googletts-fb2e7220-674cc3de-e960d2cf-9533ccd2-56cd0287.mp3",
                         "googletts-fbaeebac-15b9dc69-8cdede52-42a16cf3-4b033208.mp3",
+                        "使.png",
+                        "便利.png",
+                        "借.png",
                         "停.png",
                         "公園.png",
+                        "出.png",
+                        "切手.png",
+                        "吸.png",
                         "図書館.png",
+                        "安.png",
                         "家.png",
+                        "宿題.png",
                         "寺.png",
+                        "後.png",
+                        "急.png",
+                        "手伝.png",
+                        "持.png",
+                        "撮.png",
+                        "教科書.png",
                         "文学.png",
-                        "病院.png"
+                        "暇.png",
+                        "枚.png",
+                        "歌.png",
+                        "浴.png",
+                        "消.png",
+                        "病院.png",
+                        "短.png",
+                        "結構.png",
+                        "聞.png",
+                        "背低.png",
+                        "背高.png",
+                        "荷物.png",
+                        "葉書.png",
+                        "親切.png",
+                        "返.png",
+                        "連.png",
+                        "遅.png",
+                        "降.png",
+                        "電話.png",
+                        "頭.png",
+                        "風呂入.png",
+                        "飛行機.png",
+                        "食堂.png"
                     ],
-                    "mid": 1649145573113,
+                    "mid": 1642764739085,
                     "name": "01 Vokabeln",
                     "newLimit": null,
                     "newLimitToday": null,
@@ -518,6 +608,606 @@
                                 "[sound:googletts-2fc07741-cf9285f1-19d0fb9e-6f1c467b-1ced99e7.mp3]"
                             ],
                             "guid": "LCWnZdWr?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "撮[と]る",
+                                "(ein Foto) <b>aufnehmen</b>",
+                                "<img src=\"撮.png\">",
+                                "[sound:googletts-766b4fcd-92d7bf29-96e29b70-146fa8d8-a42d0410.mp3]"
+                            ],
+                            "guid": "o[xCn}qbc7",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だから",
+                                "daher, deswegen",
+                                "",
+                                "[sound:googletts-923ab0c0-31779eec-6a2a7175-2555f4c8-02d26a92.mp3]"
+                            ],
+                            "guid": "ySP{s?2Oc.",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "切手[きって]",
+                                "<b>Briefmarke</b>",
+                                "<img src=\"切手.png\">",
+                                "[sound:googletts-69cbb278-c0453bf5-dc216014-fbdbb566-02fc7838.mp3]"
+                            ],
+                            "guid": "An3E$dx)`Q",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "宿題[しゅくだい]",
+                                "<b>Hausaufgaben</b>",
+                                "<img src=\"宿題.png\">",
+                                "[sound:googletts-cdb5b413-4a003907-0677c12a-cf06617c-b25083fe.mp3]"
+                            ],
+                            "guid": "J~T`nAb6QX",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "葉書[はがき]",
+                                "Postkarte",
+                                "<img src=\"葉書.png\">",
+                                "[sound:googletts-83fc288a-494351a9-e086b357-39e8ffb6-d345144b.mp3]"
+                            ],
+                            "guid": "x1w$V>xe~H",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "飛行機[ひこうき]",
+                                "<b>Flugzeug</b>",
+                                "<img src=\"飛行機.png\">",
+                                "[sound:googletts-26a942d3-cc0f0556-dd8c9b24-69c8ae76-84082880.mp3]"
+                            ],
+                            "guid": "ohmUbgZmTm",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "つまらない",
+                                "langweilig",
+                                "",
+                                "[sound:googletts-48898925-bba9c841-cc933480-fe15d6ef-1b75756d.mp3]"
+                            ],
+                            "guid": "K;x)9MBQE<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "やさしい",
+                                "einfach, einfaches Problem, nett (Person)",
+                                "",
+                                "[sound:googletts-95d6c144-6983d0f5-2d82bb06-2604b8d9-9e60a1d3.mp3]"
+                            ],
+                            "guid": "C8!JHF6ls3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "安[やす]い",
+                                "günstig",
+                                "<img src=\"安.png\">",
+                                "[sound:googletts-254ca0f8-ff5cd7ef-446008f2-79ae1f4e-109b7413.mp3]"
+                            ],
+                            "guid": "Go)R{-`Rv-",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "にぎやか(な)",
+                                "belebt (Straße)",
+                                "",
+                                "[sound:googletts-c6e0dffc-73baf6e9-24a029c5-ba953cfa-c5c4b6bf.mp3]"
+                            ],
+                            "guid": "rSx}zcl2-d",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "暇(な)",
+                                "<b>frei, nichts zu tun haben</b>",
+                                "<img src=\"暇.png\">",
+                                "[sound:googletts-e1b8603b-802f0823-2a2f13c6-65cafde7-5831ee85.mp3]"
+                            ],
+                            "guid": "F,1/3)nHG!",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "聞[き]く (に)",
+                                "<b>jmd. fragen (Person に)</b>",
+                                "<img src=\"聞.png\">",
+                                "[sound:googletts-c39afc71-59f0a0b4-b34df6cf-6c9f8af0-e1fecf57.mp3]"
+                            ],
+                            "guid": "O@wpUugL4f",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "出[で]かける",
+                                "<b>ausgehen</b>",
+                                "<img src=\"出.png\">",
+                                "[sound:googletts-6234f4d0-86d6f37a-42f53bad-64cf8def-53299c7b.mp3]"
+                            ],
+                            "guid": "AW:Tvh`1?o",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すごく",
+                                "wahnsinnig, total",
+                                "",
+                                "[sound:googletts-1bd28271-d9f7489f-f7614cc2-e26a97af-40ef83af.mp3]"
+                            ],
+                            "guid": "B0&?08q#sY",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それから",
+                                "dann, danach, dazu",
+                                "",
+                                "[sound:googletts-835184eb-577ce96b-77723b80-934fefed-9e13b0ba.mp3]"
+                            ],
+                            "guid": "mol!rlh?+y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~ 枚[まい]",
+                                "<b>Zählwort für flache Objekte</b>",
+                                "<img src=\"枚.png\">",
+                                "[sound:googletts-8126d904-55a453af-78836437-c3b3f148-6ccfe6ac.mp3]"
+                            ],
+                            "guid": "z(_71RBASc",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "教科書",
+                                "<b>Lehrbuch</b>",
+                                "<img src=\"教科書.png\">",
+                                "[sound:googletts-628e6b06-9df77d93-68230525-61e8b6d1-ec74e655.mp3]"
+                            ],
+                            "guid": "yDN2k7JsHK",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "荷物[にもつ]",
+                                "Gepäck",
+                                "<img src=\"荷物.png\">",
+                                "[sound:googletts-1b233414-b6561a73-22840e2a-f7d43340-fdc1646b.mp3]"
+                            ],
+                            "guid": "pbwAd7R)6y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "急[いそ]ぐ",
+                                "sich beeilen",
+                                "<img src=\"急.png\">",
+                                "[sound:googletts-5f5d3a60-94bd54d8-8fede532-6f33637f-4451b4ba.mp3]"
+                            ],
+                            "guid": "KFkWE!n3gz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "お 風呂[ふろ]に 入[はい]る",
+                                "<b>ein Bad nehmen</b>",
+                                "<img src=\"風呂入.png\">",
+                                "[sound:googletts-d5db1589-8f58a3ad-53b22b11-1d8f15ae-37914f20.mp3]"
+                            ],
+                            "guid": "Cza&b.C}^Y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "返[かえ]す",
+                                "<b>etwas zurückgeben</b><br>(Person に Objekt を)",
+                                "<img src=\"返.png\">",
+                                "[sound:googletts-acd3338d-7746a20a-990cf67b-9acd1942-b2c76830.mp3]"
+                            ],
+                            "guid": "M@D=8yAk(4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "消[け]す",
+                                "<b>(Licht) ausmachen, ausschalten, (Feuer) löschen</b>",
+                                "<img src=\"消.png\">",
+                                "[sound:googletts-a91ed314-bb15ade2-01b2e0ba-451ae723-f7b5e5f3.mp3]"
+                            ],
+                            "guid": "Obe~|;bw:;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "立[た]つ",
+                                "<b>aufstehen, errichten</b>",
+                                "<img src=\"31435_frames.png\">",
+                                "[sound:googletts-f3177616-409c144f-a1526506-5dde5d18-40e416a9.mp3]"
+                            ],
+                            "guid": "vJ2*1SDufP",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "タバコを 吸[す]う",
+                                "<b>rauchen</b>",
+                                "<img src=\"吸.png\">",
+                                "[sound:googletts-809d3a0a-8848b018-2ee95206-e8991ed3-21cb51f3.mp3]"
+                            ],
+                            "guid": "fm&8WBV^}>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "使[つか]う",
+                                "<b>benutzen, verwenden</b>",
+                                "<img src=\"使.png\">",
+                                "[sound:googletts-8f51e0c9-4ad0c56b-6fb76718-38b21b80-fa7215fb.mp3]"
+                            ],
+                            "guid": "evG+3F`XDu",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "手伝[てつだ]う",
+                                "<b>helfen</b>",
+                                "<img src=\"手伝.png\">",
+                                "[sound:googletts-beae1c56-b487cbca-e1f50a35-3d75dd92-5808ddc6.mp3]"
+                            ],
+                            "guid": "lDSVlV(5sU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "入[はい]る",
+                                "<b>betreten, hineingehen, eintreten</b>",
+                                "<img src=\"20837_frames.png\">",
+                                "[sound:googletts-cff7d4da-f344d4cf-5dca1795-85ce8eba-13d5bc24.mp3]"
+                            ],
+                            "guid": "t{_I-RQ~sr",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "休[やす]む",
+                                "<b>pausieren, schlafen</b>",
+                                "<img src=\"20241_frames.png\">",
+                                "[sound:googletts-4894d149-2ba79c6a-60347f56-1d91d5a6-3e4c42ad.mp3]"
+                            ],
+                            "guid": "dZ{N<q+>0b",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "降[お]りる",
+                                "<b>(aus dem Zug) aussteigen, heruntersteigen, absteigen</b>",
+                                "<img src=\"降.png\">",
+                                "[sound:googletts-16dc673c-e3c34166-14670cb3-fe5e9268-5a2e1dd4.mp3]"
+                            ],
+                            "guid": "dnX`YfsRJU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "借[か]りる",
+                                "<b>sich ausliehen, mieten</b><br>(Person に Objekt を)",
+                                "<img src=\"借.png\">",
+                                "[sound:googletts-03c02c0b-87ef893f-6fdc9285-46f19b7a-abb48368.mp3]"
+                            ],
+                            "guid": "P)[UNRP*2s",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "シャワーを 浴[あ]びる",
+                                "<b>duschen</b>",
+                                "<img src=\"浴.png\">",
+                                "[sound:googletts-9c0ece9a-4f2c7f45-f0371621-f9f0ca9a-d96bfc2c.mp3]"
+                            ],
+                            "guid": "wqlt}%Rs}w",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "つける",
+                                "anschalten, anmachen",
+                                "",
+                                "[sound:googletts-9d63444c-2a435b30-b401467a-ba918fd5-b0efd99d.mp3]"
+                            ],
+                            "guid": "M(%lMZG*l`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "電話[でんわ]をかける",
+                                "<b>einen Anruf tätigen</b><br>(~に)",
+                                "<img src=\"電話.png\">",
+                                "[sound:googletts-2f1a2693-266243b8-1e5cbf3b-cc98b35b-e187318d.mp3]"
+                            ],
+                            "guid": "K;{S];niEO",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "連[つ]れてくる",
+                                "<b>jmd. mitbringen</b>",
+                                "<img src=\"連.png\">",
+                                "[sound:googletts-9252f5e4-6d36879d-cb3846a3-47d5f962-09f444e9.mp3]"
+                            ],
+                            "guid": "Q>O-Pkh(RT",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "持[も]ってくる",
+                                "<b>(etw.) mitbringen</b>",
+                                "<img src=\"持.png\">",
+                                "[sound:googletts-bfc37a2c-3d77f58c-bb30b9c5-edba6acf-5c3f8268.mp3]"
+                            ],
+                            "guid": "hcx:n@t5T+",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "後[あと]で",
+                                "<b>später, danach</b>",
+                                "<img src=\"後.png\">",
+                                "[sound:googletts-f812fa1a-1f7a415a-3c4b171b-35ff76f5-7547f8b4.mp3]"
+                            ],
+                            "guid": "I+>]x,c}^3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "遅[おそ]く",
+                                "<b>(etw.) spät (tun)</b>",
+                                "<img src=\"遅.png\">",
+                                "[sound:googletts-47d15c59-c0ea6d47-eef27965-d92f7737-b3feb19c.mp3]"
+                            ],
+                            "guid": "o!!~uC=&W0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "結構[けっこう]です",
+                                "<b>Das wäre schön. / Das wäre nicht nötig.</b>",
+                                "<img src=\"結構.png\">",
+                                "[sound:googletts-d5148efb-ebde1fab-6ae446b2-07ec67f7-ee5efb97.mp3]"
+                            ],
+                            "guid": "Mci-GvDkC^",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すぐ",
+                                "gleich, sofort (Adverb)",
+                                "",
+                                "[sound:googletts-141b8b5f-f1b1340f-02768536-0648ee58-8efc1508-ff7e3dd98f76722d2358b39ffa8018ab35e22549.mp3]"
+                            ],
+                            "guid": "enix:cYY8l",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ゆっくり",
+                                "langsam, gemächlich",
+                                "",
+                                "[sound:googletts-d58d4192-f625b4f6-f233c974-ebcd9031-d894c29f.mp3]"
+                            ],
+                            "guid": "z^M!kaSiw|",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "歌[うた]",
+                                "<b>Lied, Song</b>",
+                                "<img src=\"歌.png\">",
+                                "[sound:googletts-5960561b-78de1974-8c699a23-28097ab3-ee61a9a3.mp3]"
+                            ],
+                            "guid": "fHa/|Rr`}A",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "サークル",
+                                "Klubaktivität",
+                                "",
+                                "[sound:googletts-e91d8136-5a1b033f-16440a1e-dc17cc9a-59c8a5ae.mp3]"
+                            ],
+                            "guid": "p5MHL2jgR/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "食堂[しょくどう]",
+                                "<b>Mensa, Kantine, Esszimmer</b>",
+                                "<img src=\"食堂.png\">",
+                                "[sound:googletts-4d1b7fee-99a7b772-376d405e-7298bde6-6ae9264c.mp3]"
+                            ],
+                            "guid": "b<d}sh:ZVS",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "頭[あたま]がいい",
+                                "<b>schlau, clever, smart</b>",
+                                "<img src=\"頭.png\">",
+                                "[sound:googletts-9cece551-e824662c-44903b41-3f5c59b7-32f86637.mp3]"
+                            ],
+                            "guid": "rsgWvjhd/8",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "背[せ]が 高[たか]い",
+                                "<b>groß (Statur)</b>",
+                                "<img src=\"背高.png\">",
+                                "[sound:googletts-835014bb-743f08df-a2c46f98-22b05c56-193258a7.mp3]"
+                            ],
+                            "guid": "x=uVc-Oa~K",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "背[せ]が 低[ひく]い",
+                                "<b>klein (Statur)</b>",
+                                "<img src=\"背低.png\">",
+                                "[sound:googletts-8ed8801e-d32ec714-b811d21d-a3a22e05-591ed69f.mp3]"
+                            ],
+                            "guid": "nE[-@ofD66",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "長[なが]い",
+                                "<b>lang</b>",
+                                "<img src=\"38263_frames.png\">",
+                                "[sound:googletts-85e547dc-62f77268-14e92f69-d76f1559-77f443c4.mp3]"
+                            ],
+                            "guid": "M]^Dy<n+w$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "短[みじか]い",
+                                "<b>kurz</b>",
+                                "<img src=\"短.png\">",
+                                "[sound:googletts-a387c447-29d36931-bb04311a-5e9b0b59-9669e453.mp3]"
+                            ],
+                            "guid": "M!})$u7P4e",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "親切[しんせつ](な)",
+                                "<b>freundlich, liebenswürdig</b>",
+                                "<img src=\"親切.png\">",
+                                "[sound:googletts-d973f17d-3e662fb1-e4b88e94-1e214bf3-630fec66.mp3]"
+                            ],
+                            "guid": "wVc#Y3B*u1",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "便利[べんり](な)",
+                                "<b>praktisch, bequem</b>",
+                                "<img src=\"便利.png\">",
+                                "[sound:googletts-51f162c8-610661f6-714eefae-0a1073c2-8b63f237.mp3]"
+                            ],
+                            "guid": "G$xG>IU6OV",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
