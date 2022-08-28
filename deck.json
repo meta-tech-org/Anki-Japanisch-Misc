@@ -171,9 +171,7 @@
                             ],
                             "guid": "B6[Ndpu<Qd",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": [
-                                "marked"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -736,6 +734,7 @@
                         "googletts-0a952903-18c511c2-ceb0a940-6755451d-dde760ce.mp3",
                         "googletts-1af96a7d-c4d84aa1-87c51266-6540bfc8-7bb9dafb.mp3",
                         "googletts-1e0809ac-db3ca33d-41af319d-ba8cd36f-78841c9c.mp3",
+                        "googletts-3c06aa69-94e86292-84aa9eec-b8033a67-fc165d3f.mp3",
                         "googletts-490c45e1-4c7c5b3c-3c4bf7d9-35dfae7e-e9baede0.mp3",
                         "googletts-594833b0-bded8faa-ab1f746d-790a8a76-b3ba12e8.mp3",
                         "googletts-5f5d3a60-94bd54d8-8fede532-6f33637f-4451b4ba.mp3",
@@ -745,7 +744,6 @@
                         "googletts-6e8f6094-7674990d-6828585d-c8484caf-807e6bcb.mp3",
                         "googletts-9230f95d-c6c92503-a11b3aee-c2dafe1b-8bb02a53.mp3",
                         "googletts-ac6dc0ca-4761f471-2a69a394-60e9b7b9-b1b8b1fc.mp3",
-                        "googletts-bc645647-e5a8eb06-bc2c28e3-a7821115-a4f2a660.mp3",
                         "googletts-bd4a31c0-e277840c-5c338034-06de0601-03f22fe7.mp3",
                         "googletts-c65b9e80-694f157a-ce45d3ab-e26d1ba9-ad41b863.mp3",
                         "googletts-cf7f7079-d7f7dfcc-72f17055-c2ecf05a-2ea8e0de.mp3",
@@ -1050,7 +1048,7 @@
                                 "喋[しゃべ]る",
                                 "<b>sprechen</b>",
                                 "<img src=\"喋.png\">",
-                                "[sound:googletts-bc645647-e5a8eb06-bc2c28e3-a7821115-a4f2a660.mp3]"
+                                "[sound:googletts-3c06aa69-94e86292-84aa9eec-b8033a67-fc165d3f.mp3]"
                             ],
                             "guid": "B+pd(f;%.O",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1224,7 +1222,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Welche 10 Verben die auf -いる und -える gehören dennoch den Godan-Verben an?",
-                                "- 入[はい]る<br>- 走[はし]る<br>- いる<br>- 帰[かえ]る<br>- 限[かぎ]る<br>- 切[き]る<br>- 喋[しゃべ]る<br>- 喋[しゃべ]る<br>- 知[し]る<br>- 蹴[け]る<br>- 滑[すべ]る"
+                                "- いる<br>- 知[し]る<br>- 切[き]る<br>- 限[かぎ]る<br>- 滑[すべ]る<br>- 走[はし]る<br>- 蹴[け]る<br>- 入[はい]る<br>- 喋[しゃべ]る<br>- 帰[かえ]る"
                             ],
                             "guid": "v!4vuScyh7",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -1234,7 +1232,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie heißt der Satz, mit dem man sich die 10 Ichiban Ausnahme Verben merken kann?",
-                                "I <b>needed </b>to <b>know </b>how to <b>cut </b>onions properly to <b>limit </b>the number of tears in the kitchen, so I <b>slid </b>down the hill, ran to my friend’s house, <b>kicked </b>his door in, <b>entered </b>his house, <b>spoke </b>with him for a bit and then <b>went back home</b>."
+                                "I <b>needed </b>to <b>know </b>how to <b>cut </b>onions properly to <b>limit </b>the number of tears in the kitchen, so I <b>slid </b>down the hill, <b>ran</b> to my friend’s house, <b>kicked </b>his door in, <b>entered </b>his house, <b>spoke </b>with him for a bit and then <b>went back home</b>."
                             ],
                             "guid": "Jq(_F<c<KB",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
