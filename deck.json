@@ -1941,8 +1941,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was besagt das Japanische <u>Present Tense</u>&nbsp;aus?",
-                                "- Alltägliche Aktionen<br>- Zukünftige Aktionen<br>- Keine aktuell laufenden Aktionen"
+                                "Welche drei Dinge beschreibt das Japanische <u>Present Tense</u>?",
+                                "<ul><li>Alltägliche Aktionen</li><li>Zukünftige Aktionen</li><li>Keine aktuell laufenden Aktionen</li></ul>"
                             ],
                             "guid": "qFpIE/rux+",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
