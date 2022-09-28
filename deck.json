@@ -1784,7 +1784,7 @@
                 }
             ],
             "crowdanki_uuid": "2c2bab1e-3f3e-11ed-b687-0c7a15ee466f",
-            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "deck_config_uuid": "40544cb5-3f43-11ed-a8db-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -1992,7 +1992,7 @@
                 }
             ],
             "crowdanki_uuid": "2c352108-3f3e-11ed-bc9e-0c7a15ee466f",
-            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "deck_config_uuid": "40627d6c-3f43-11ed-a21d-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -2104,7 +2104,7 @@
                 }
             ],
             "crowdanki_uuid": "2c3ee500-3f3e-11ed-949f-0c7a15ee466f",
-            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "deck_config_uuid": "406d1647-3f43-11ed-9659-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
@@ -2115,8 +2115,104 @@
         }
     ],
     "crowdanki_uuid": "2c29af5b-3f3e-11ed-a4c6-0c7a15ee466f",
-    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+    "deck_config_uuid": "405229cf-3f43-11ed-b2ae-0c7a15ee466f",
     "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "405229cf-3f43-11ed-b2ae-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch Misc",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 10
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 100
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "40544cb5-3f43-11ed-a8db-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch Misc::Vokabeln",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 7
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 70
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
         {
             "__type__": "DeckConfig",
             "autoplay": true,
@@ -2162,6 +2258,102 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "40627d6c-3f43-11ed-a21d-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch Misc::Grammatik",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 1
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 10
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "406d1647-3f43-11ed-9659-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch Misc::Stories",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 2
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 20
             },
             "reviewOrder": 0,
             "timer": 0
