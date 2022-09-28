@@ -7,8 +7,8 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "31cc7421-0ccb-11ed-b4c5-6245b50ff1c6",
-                    "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+                    "crowdanki_uuid": "2c2da6ee-3f3e-11ed-a043-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -150,10 +150,7 @@
                         "飛行機.png",
                         "食堂.png"
                     ],
-                    "mid": 1642764739085,
                     "name": "01 Vokabeln",
-                    "newLimit": null,
-                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1211,33 +1208,13 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ],
-                    "reviewLimit": null,
-                    "reviewLimitToday": null
-                }
-            ],
-            "crowdanki_uuid": "03fe48ae-11db-11ed-9f9b-3c58c2d0fe16",
-            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "01 Lektion",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [],
-            "reviewLimit": null,
-            "reviewLimitToday": null
-        },
-        {
-            "__type__": "Deck",
-            "children": [
+                    ]
+                },
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "2f8b1b8b-e99f-11ec-8005-3c58c2d0fe16",
-                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "crowdanki_uuid": "2c30b42f-3f3e-11ed-8639-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -1264,9 +1241,7 @@
                         "豆.png",
                         "鞄.png"
                     ],
-                    "name": "01 Vokabeln",
-                    "newLimit": null,
-                    "newLimitToday": null,
+                    "name": "02 Vokabeln",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1388,33 +1363,13 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ],
-                    "reviewLimit": null,
-                    "reviewLimitToday": null
-                }
-            ],
-            "crowdanki_uuid": "2f8a5842-e99f-11ec-bfac-3c58c2d0fe16",
-            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
-            "desc": "",
-            "dyn": 0,
-            "extendNew": 0,
-            "extendRev": 0,
-            "media_files": [],
-            "name": "02 Lektion",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [],
-            "reviewLimit": null,
-            "reviewLimitToday": null
-        },
-        {
-            "__type__": "Deck",
-            "children": [
+                    ]
+                },
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "97b3e197-e99b-11ec-a3e5-3c58c2d0fe16",
-                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "crowdanki_uuid": "2c32d710-3f3e-11ed-ac6f-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -1473,10 +1428,7 @@
                         "食.png",
                         "飲.png"
                     ],
-                    "mid": 1642764739085,
-                    "name": "01 Vokabeln",
-                    "newLimit": null,
-                    "newLimitToday": null,
+                    "name": "03 Vokabeln",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1596,9 +1548,7 @@
                             ],
                             "guid": "bxFkf)hG,4",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": [
-                                "leech"
-                            ]
+                            "tags": []
                         },
                         {
                             "__type__": "Note",
@@ -1804,305 +1754,341 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ],
-                    "reviewLimit": null,
-                    "reviewLimitToday": null
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "97b51a18-e99b-11ec-9fac-3c58c2d0fe16",
-                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "paste-2de181a1fc5d8f8de7bf3341e20f1715f9e82024.jpg",
-                        "paste-51721947da0cf1dd54d2d47e731c183b74519b6f.jpg",
-                        "paste-aa03fb3b8dc714d9c18602494226570f7d7e5e03.jpg",
-                        "paste-b008504d7a10d9233302e9e99c29c7c5920c12ab.jpg",
-                        "paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg"
-                    ],
-                    "name": "02 Grammatik",
-                    "newLimit": null,
-                    "newLimitToday": null,
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was betont die Partikel は?",
-                                "は betont das was <u>danach </u>kommt.<br><br>これは 大[おお]きい 犬[いぬ]です。-This, <u>it‘s a big dog!</u>"
-                            ],
-                            "guid": "u>dB16</47",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was betont die Partikel が?",
-                                "が betont das was&nbsp;<u>davor</u>&nbsp;kommt.<br><br>これが 大[おお]きい 犬[いぬ]です。<u>This right here</u>, is a big dog!"
-                            ],
-                            "guid": "E>?DhBc$*,",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Partikel muss bei Fragewörten benutzt werden?",
-                                "Bei Fragewörtern muss die Partikel が verwendet werden.<br><br>誰[だれ]が行[い]きますか。– <u>Who </u>will go?"
-                            ],
-                            "guid": "pY2$tkEaUu",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche Partikel kann verwendet werden um Kontraste darzustellen?",
-                                "Die Partikel は kann verwendet werden, um Kontraste darzustellen.<br><br>バナナは好[す]きです。(は impliziert, dass es Dinge gibt die ich nicht mag, aber Bananen mag ich!\nMan steht zum Beispiel vor einem Tisch mit Essen, und mag davon nur die Bananen.)"
-                            ],
-                            "guid": "GsTh[]3FK%",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "In welche Gruppen können Verben aufgeteilt werden?",
-                                "- <b>Godan </b>Verben<br>- <b>Ichidan </b>Verben (enden auf -いる, oder -える, bis auf 10 Ausnahmen)<br>- <b>Irreguläre</b> Verben"
-                            ],
-                            "guid": "xyOFZ^MnOa",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Worauf enden alle Verben?",
-                                "Alle Verben enden auf den う-Sound.<br>う・く・す・つ・ぬ・む・ぐ・ぶ・る"
-                            ],
-                            "guid": "A#Xy@y=OhN",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie wird die <u>Present Tense</u>&nbsp;Form der Godan Verben gebildet?",
-                                "1. Zuerst wird die う-Endung zum passenden い-Sound geändert.<br><img src=\"paste-2de181a1fc5d8f8de7bf3341e20f1715f9e82024.jpg\"><br>2. Danach wird <u>ます</u>&nbsp;an das veränderte Verb angehägt.<br><img src=\"paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg\"><br><img src=\"paste-b008504d7a10d9233302e9e99c29c7c5920c12ab.jpg\">"
-                            ],
-                            "guid": "q~h.A@m:)3",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie wird die <u>Present Tense</u>&nbsp;Form der Ichidan Verben gebildet?",
-                                "Das る wird weggelassen und ます angehängt.<br><img src=\"paste-aa03fb3b8dc714d9c18602494226570f7d7e5e03.jpg\">"
-                            ],
-                            "guid": "QKx6gRxkRV",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche 10 Verben die auf -いる und -える gehören dennoch den Godan-Verben an?",
-                                "- いる<br>- 知[し]る<br>- 切[き]る<br>- 限[かぎ]る<br>- 滑[すべ]る<br>- 走[はし]る<br>- 蹴[け]る<br>- 入[はい]る<br>- 喋[しゃべ]る<br>- 帰[かえ]る"
-                            ],
-                            "guid": "v!4vuScyh7",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Wie heißt der Satz, mit dem man sich die 10 Ichiban Ausnahme Verben merken kann?",
-                                "I <b>needed </b>to <b>know </b>how to <b>cut </b>onions properly to <b>limit </b>the number of tears in the kitchen, so I <b>slid </b>down the hill, <b>ran</b> to my friend’s house, <b>kicked </b>his door in, <b>entered </b>his house, <b>spoke </b>with him for a bit and then <b>went back home</b>."
-                            ],
-                            "guid": "Jq(_F<c<KB",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche irregulären Verben im <u>Present Tense</u>&nbsp;gibt es?",
-                                "<img src=\"paste-51721947da0cf1dd54d2d47e731c183b74519b6f.jpg\">"
-                            ],
-                            "guid": "b@/1sVCCTp",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Welche drei Dinge beschreibt das Japanische <u>Present Tense</u>?",
-                                "<ul><li>Alltägliche Aktionen</li><li>Zukünftige Aktionen</li><li>Keine aktuell laufenden Aktionen</li></ul>"
-                            ],
-                            "guid": "qFpIE/rux+",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        }
-                    ],
-                    "reviewLimit": null,
-                    "reviewLimitToday": null
-                },
-                {
-                    "__type__": "Deck",
-                    "children": [],
-                    "crowdanki_uuid": "97b60479-e99b-11ec-9339-3c58c2d0fe16",
-                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
-                    "desc": "",
-                    "dyn": 0,
-                    "extendNew": 0,
-                    "extendRev": 0,
-                    "media_files": [
-                        "googletts-8256e4df-af60e566-03d9b8ad-4e897c62-13afa195.mp3"
-                    ],
-                    "name": "03 Sätze",
-                    "newLimit": null,
-                    "newLimitToday": null,
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "バナナが 好[す]きです。",
-                                "Ich <b>mag </b>Bananen.",
-                                "[sound:googletts-8256e4df-af60e566-03d9b8ad-4e897c62-13afa195.mp3]"
-                            ],
-                            "guid": "I=VUw~!p^=",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        }
-                    ],
-                    "reviewLimit": null,
-                    "reviewLimitToday": null
+                    ]
                 }
             ],
-            "crowdanki_uuid": "2b2233cb-e816-11ec-a8ab-0c7a15ee466f",
+            "crowdanki_uuid": "2c2bab1e-3f3e-11ed-b687-0c7a15ee466f",
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
-            "mid": 1642765939199,
-            "name": "03 Lektion",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [],
-            "reviewLimit": null,
-            "reviewLimitToday": null
+            "name": "01 Vokabeln",
+            "notes": []
         },
         {
             "__type__": "Deck",
-            "children": [],
-            "crowdanki_uuid": "31cbd7bc-0ccb-11ed-b2e1-6245b50ff1c6",
-            "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "2c36f5cc-3f3e-11ed-a119-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "01 Lektion",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "2c3aed6b-3f3e-11ed-87bc-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "paste-2de181a1fc5d8f8de7bf3341e20f1715f9e82024.jpg",
+                                "paste-51721947da0cf1dd54d2d47e731c183b74519b6f.jpg",
+                                "paste-aa03fb3b8dc714d9c18602494226570f7d7e5e03.jpg",
+                                "paste-b008504d7a10d9233302e9e99c29c7c5920c12ab.jpg",
+                                "paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg"
+                            ],
+                            "name": "02 Grammatik",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was betont die Partikel は?",
+                                        "は betont das was <u>danach </u>kommt.<br><br>これは 大[おお]きい 犬[いぬ]です。-This, <u>it‘s a big dog!</u>"
+                                    ],
+                                    "guid": "u>dB16</47",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was betont die Partikel が?",
+                                        "が betont das was&nbsp;<u>davor</u>&nbsp;kommt.<br><br>これが 大[おお]きい 犬[いぬ]です。<u>This right here</u>, is a big dog!"
+                                    ],
+                                    "guid": "E>?DhBc$*,",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Partikel muss bei Fragewörten benutzt werden?",
+                                        "Bei Fragewörtern muss die Partikel が verwendet werden.<br><br>誰[だれ]が行[い]きますか。– <u>Who </u>will go?"
+                                    ],
+                                    "guid": "pY2$tkEaUu",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche Partikel kann verwendet werden um Kontraste darzustellen?",
+                                        "Die Partikel は kann verwendet werden, um Kontraste darzustellen.<br><br>バナナは好[す]きです。(は impliziert, dass es Dinge gibt die ich nicht mag, aber Bananen mag ich!\nMan steht zum Beispiel vor einem Tisch mit Essen, und mag davon nur die Bananen.)"
+                                    ],
+                                    "guid": "GsTh[]3FK%",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "In welche Gruppen können Verben aufgeteilt werden?",
+                                        "- <b>Godan </b>Verben<br>- <b>Ichidan </b>Verben (enden auf -いる, oder -える, bis auf 10 Ausnahmen)<br>- <b>Irreguläre</b> Verben"
+                                    ],
+                                    "guid": "xyOFZ^MnOa",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Worauf enden alle Verben?",
+                                        "Alle Verben enden auf den う-Sound.<br>う・く・す・つ・ぬ・む・ぐ・ぶ・る"
+                                    ],
+                                    "guid": "A#Xy@y=OhN",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie wird die <u>Present Tense</u>&nbsp;Form der Godan Verben gebildet?",
+                                        "1. Zuerst wird die う-Endung zum passenden い-Sound geändert.<br><img src=\"paste-2de181a1fc5d8f8de7bf3341e20f1715f9e82024.jpg\"><br>2. Danach wird <u>ます</u>&nbsp;an das veränderte Verb angehägt.<br><img src=\"paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg\"><br><img src=\"paste-b008504d7a10d9233302e9e99c29c7c5920c12ab.jpg\">"
+                                    ],
+                                    "guid": "q~h.A@m:)3",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie wird die <u>Present Tense</u>&nbsp;Form der Ichidan Verben gebildet?",
+                                        "Das る wird weggelassen und ます angehängt.<br><img src=\"paste-aa03fb3b8dc714d9c18602494226570f7d7e5e03.jpg\">"
+                                    ],
+                                    "guid": "QKx6gRxkRV",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche 10 Verben die auf -いる und -える gehören dennoch den Godan-Verben an?",
+                                        "- いる<br>- 知[し]る<br>- 切[き]る<br>- 限[かぎ]る<br>- 滑[すべ]る<br>- 走[はし]る<br>- 蹴[け]る<br>- 入[はい]る<br>- 喋[しゃべ]る<br>- 帰[かえ]る"
+                                    ],
+                                    "guid": "v!4vuScyh7",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie heißt der Satz, mit dem man sich die 10 Ichiban Ausnahme Verben merken kann?",
+                                        "I <b>needed </b>to <b>know </b>how to <b>cut </b>onions properly to <b>limit </b>the number of tears in the kitchen, so I <b>slid </b>down the hill, <b>ran</b> to my friend’s house, <b>kicked </b>his door in, <b>entered </b>his house, <b>spoke </b>with him for a bit and then <b>went back home</b>."
+                                    ],
+                                    "guid": "Jq(_F<c<KB",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche irregulären Verben im <u>Present Tense</u>&nbsp;gibt es?",
+                                        "<img src=\"paste-51721947da0cf1dd54d2d47e731c183b74519b6f.jpg\">"
+                                    ],
+                                    "guid": "b@/1sVCCTp",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Welche drei Dinge beschreibt das Japanische <u>Present Tense</u>?",
+                                        "<ul><li>Alltägliche Aktionen</li><li>Zukünftige Aktionen</li><li>Keine aktuell laufenden Aktionen</li></ul>"
+                                    ],
+                                    "guid": "qFpIE/rux+",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "2c3ce92d-3f3e-11ed-8964-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "googletts-8256e4df-af60e566-03d9b8ad-4e897c62-13afa195.mp3"
+                            ],
+                            "name": "03 Sätze",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "バナナが 好[す]きです。",
+                                        "Ich <b>mag </b>Bananen.",
+                                        "[sound:googletts-8256e4df-af60e566-03d9b8ad-4e897c62-13afa195.mp3]"
+                                    ],
+                                    "guid": "I=VUw~!p^=",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
+                    "crowdanki_uuid": "2c38f192-3f3e-11ed-a926-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "03 Lektion",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "2c352108-3f3e-11ed-bc9e-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
-            "name": "Tadoku Stories",
-            "newLimit": null,
-            "newLimitToday": null,
-            "notes": [
+            "name": "02 Lektionen",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
                 {
-                    "__type__": "Note",
-                    "fields": [
-                        "歳[さい]",
-                        "<b>Zählwort für Jahre. Jahre alt</b>",
-                        "",
-                        ""
-                    ],
-                    "guid": "HV|]4)c?/n",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "背[せ]",
-                        "(Körper-)Größe",
-                        "",
-                        ""
-                    ],
-                    "guid": "B$?K-kY}|}",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "これ位[くらい]",
-                        "<b>So viel, diese Anzahl</b>",
-                        "",
-                        ""
-                    ],
-                    "guid": "f.Ca:kpOKK",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "髪",
-                        "<b>Haar auf dem Kopf</b>",
-                        "",
-                        ""
-                    ],
-                    "guid": "QR@2,0sxZi",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "着[き]る",
-                        "<b>Etwas tragen</b>",
-                        "",
-                        ""
-                    ],
-                    "guid": "d->~xO/dnf",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "持[も]っていく",
-                        "<b>Etwas mitnehmen, etwas mitbringen, etwas tragen</b>",
-                        "",
-                        ""
-                    ],
-                    "guid": "b<pCGiA~l/",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "お面[めん]",
-                        "<b>Maske</b>",
-                        "",
-                        ""
-                    ],
-                    "guid": "PUZ~039>+)",
-                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                    "tags": []
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "2c40e0d1-3f3e-11ed-9daf-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "Tadoku Stories",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "歳[さい]",
+                                "<b>Zählwort für Jahre. Jahre alt</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "HV|]4)c?/n",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "背[せ]",
+                                "(Körper-)Größe",
+                                "",
+                                ""
+                            ],
+                            "guid": "B$?K-kY}|}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "これ位[くらい]",
+                                "<b>So viel, diese Anzahl</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "f.Ca:kpOKK",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "髪",
+                                "<b>Haar auf dem Kopf</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "QR@2,0sxZi",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "着[き]る",
+                                "<b>Etwas tragen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "d->~xO/dnf",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "持[も]っていく",
+                                "<b>Etwas mitnehmen, etwas mitbringen, etwas tragen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "b<pCGiA~l/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "お面[めん]",
+                                "<b>Maske</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "PUZ~039>+)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
-            "reviewLimit": null,
-            "reviewLimitToday": null
+            "crowdanki_uuid": "2c3ee500-3f3e-11ed-949f-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "03 Stories",
+            "notes": []
         }
     ],
-    "crowdanki_uuid": "2c70fdf5-e815-11ec-bf14-0c7a15ee466f",
+    "crowdanki_uuid": "2c29af5b-3f3e-11ed-a4c6-0c7a15ee466f",
     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
     "deck_configurations": [
         {
@@ -2153,107 +2139,6 @@
             },
             "reviewOrder": 0,
             "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 2
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 0,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 30,
-                "separate": true
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "fuzz": 0.05,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "minSpace": 1,
-                "perDay": 300
-            },
-            "reviewOrder": 0,
-            "timer": 0
         }
     ],
     "desc": "",
@@ -2262,8 +2147,6 @@
     "extendRev": 0,
     "media_files": [],
     "name": "Japanisch Misc",
-    "newLimit": null,
-    "newLimitToday": null,
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -2492,7 +2375,5 @@
             "type": 0
         }
     ],
-    "notes": [],
-    "reviewLimit": null,
-    "reviewLimitToday": null
+    "notes": []
 }
