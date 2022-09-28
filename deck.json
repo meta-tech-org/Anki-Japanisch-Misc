@@ -1998,6 +1998,108 @@
             "notes": [],
             "reviewLimit": null,
             "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "31cbd7bc-0ccb-11ed-b2e1-6245b50ff1c6",
+            "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Tadoku Stories",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "歳[さい]",
+                        "<b>Zählwort für Jahre. Jahre alt</b>",
+                        "",
+                        ""
+                    ],
+                    "guid": "HV|]4)c?/n",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "背[せ]",
+                        "(Körper-)Größe",
+                        "",
+                        ""
+                    ],
+                    "guid": "B$?K-kY}|}",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "これ位[くらい]",
+                        "<b>So viel, diese Anzahl</b>",
+                        "",
+                        ""
+                    ],
+                    "guid": "f.Ca:kpOKK",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "髪",
+                        "<b>Haar auf dem Kopf</b>",
+                        "",
+                        ""
+                    ],
+                    "guid": "QR@2,0sxZi",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "着[き]る",
+                        "<b>Etwas tragen</b>",
+                        "",
+                        ""
+                    ],
+                    "guid": "d->~xO/dnf",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "持[も]っていく",
+                        "<b>Etwas mitnehmen, etwas mitbringen, etwas tragen</b>",
+                        "",
+                        ""
+                    ],
+                    "guid": "b<pCGiA~l/",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "お面[めん]",
+                        "<b>Maske</b>",
+                        "",
+                        ""
+                    ],
+                    "guid": "PUZ~039>+)",
+                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         }
     ],
     "crowdanki_uuid": "2c70fdf5-e815-11ec-bf14-0c7a15ee466f",
