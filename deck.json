@@ -1899,7 +1899,248 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "Liste 07",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もちろん",
+                                "natürlich/selbstverständlich",
+                                "",
+                                ""
+                            ],
+                            "guid": "ziqw-p@*;@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よかったら",
+                                "Wenn du magst",
+                                "",
+                                ""
+                            ],
+                            "guid": "k~yD*ev?%a",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "空気[くうき]",
+                                "Luft",
+                                "",
+                                ""
+                            ],
+                            "guid": "oB0Z(H4KdM",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "黒板[こくばん]",
+                                "Tafel",
+                                "",
+                                ""
+                            ],
+                            "guid": "IB/84CNwGt",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "今月[こんげつ]",
+                                "Diesen Monat",
+                                "",
+                                ""
+                            ],
+                            "guid": "LLQT^HTWo0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "天気[てんき]予報[よほう]",
+                                "<b>Wettervorhersage</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "cS#R888hh@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なに]か",
+                                "<b>Etwas</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "FiCHc5U]=$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "上手[じょうず](な)",
+                                "<b>Gut sein in etwas</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "q[SaqBd;[<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "下手[へた](な)",
+                                "<b>Schlecht sein/ungeschickt sein in etwas</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "x0TB8yLkW;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "有名[ゆうめい](な)",
+                                "<b>Berühmt</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "bo&4TM.<A&",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "洗[あら]う",
+                                "<b>waschen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "q;yU_Wig_w",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いる",
+                                "brauchen&nbsp;",
+                                "",
+                                ""
+                            ],
+                            "guid": "GH?H!o}vJ|",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "遅[おそ]くなる",
+                                "<b>zu spät kommen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "AI~}M~Q6/q",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "切[き]る",
+                                "<b>schneiden</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "EYfPAV8Q(r",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "持[も]っていく",
+                                "<b>etwas nehmen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "x+%?8aY&aT",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じろじろ見[み]る",
+                                "<b>etwas anstarren</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "l{ukBpV=F+",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "捨[す]てる",
+                                "<b>etwas wegwerfen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "IGedgYL>MV",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "洗濯[せんたく]する",
+                                "die Wäsche machen",
+                                "",
+                                ""
+                            ],
+                            "guid": "E&~?*TF%-$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "掃除[そうじ]する",
+                                "<b>Sauber machen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "if.@@U)o,u",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "料理[りょうり]する",
+                                "<b>kochen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "HQVQ:<j`;r",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
