@@ -1753,6 +1753,138 @@
                             "guid": "G$xG>IU6OV",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かぶる",
+                                "Etwas (einen Hut) aufsetzen",
+                                "",
+                                ""
+                            ],
+                            "guid": "kTvTNKDy,)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はく",
+                                "Etwas anziehen (unter der Hüfte)",
+                                "",
+                                ""
+                            ],
+                            "guid": "qQ5|K,[u2Y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "太[ふと]る",
+                                "(Gewicht) <b>zunehmen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "O(G[I5Y[0y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "太[ふと]っています",
+                                "<b>Schwer sein/viel wiegen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "cz2XEUrHg/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(眼鏡[めがね]を)かける",
+                                "eine Brille aufsetzen",
+                                "",
+                                ""
+                            ],
+                            "guid": "B[i|V78:ZP",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "着[き]る",
+                                "Kleidung anziehen (über der Hüfte)",
+                                "",
+                                ""
+                            ],
+                            "guid": "gj`}Q)uX<<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "勤[つと]める",
+                                "<b>Arbeiten bei/für</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "ij:uRW4Dt]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "やせる",
+                                "Gewicht verlieren/abnehmen",
+                                "",
+                                ""
+                            ],
+                            "guid": "NVt3khPH|-",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "やせています",
+                                "Dünn sein",
+                                "",
+                                ""
+                            ],
+                            "guid": "oHcb>*]Ohg",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なに]も+negative",
+                                "<b>nichts</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "Nwj|X@zw-Y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "別[べつ]に+negative",
+                                "<b>Nichts genaues</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "h%zk$kHf&p",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
