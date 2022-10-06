@@ -2151,6 +2151,246 @@
                             "guid": "HQVQ:<j`;r",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>残念</b>[ざんねん]",
+                                "Zu schade...",
+                                "",
+                                ""
+                            ],
+                            "guid": "zKU-^2^+t(",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いい子[こ]",
+                                "Gutes <b>Kind</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "y>.asHoY&t",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "今度[こんど]",
+                                "<b>Nahe Zukunft</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "h}M:z2_Y&z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "作文[さくぶん]",
+                                "<b>Essay</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "vOzH!nr/0s",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "病気[びょうき]",
+                                "Krankheit",
+                                "",
+                                ""
+                            ],
+                            "guid": "w_`f#QeJ:s",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "若[わか]い",
+                                "<b>Jung</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "yC;T-Y,8un",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "意地悪[いじわる](な)",
+                                "<b>bösartig</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "NFO@n?}x~i",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "踊[おど]る",
+                                "<b>tanzen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "PLtc]}hH*#",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "始[はじ]る",
+                                "<b>anfangen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "0dOXXU{I2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "終[お]わる",
+                                "etwas <b>endet</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "OQ)`]hK)u0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "人気[にんき]がある",
+                                "<b>beliebt/populär sein</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "un%:zBR,NU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "始[はじ]まる",
+                                "<b>etwas fängt an/beginnt</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "ibd=.5sE~B",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "弾[たま]く",
+                                "<b>ein (Saiten-)Instrument spielen</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "p5c;fRsiaG",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もらう",
+                                "etwas bekommen von jemandem",
+                                "",
+                                ""
+                            ],
+                            "guid": "b{WK|ew0M9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "出[で]る",
+                                "auftauchen/bei einer Veranstaltung sein (attend)<br>oder verlassen",
+                                "",
+                                ""
+                            ],
+                            "guid": "Cuy=T|KHx8",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "運動[うんどう]する",
+                                "<b>Sportübungen </b>machen",
+                                "",
+                                ""
+                            ],
+                            "guid": "Ebn8PGu0<G",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "是非[ぜひ]",
+                                "<b>Auf jeden Fall</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "Mz8;}e:H$6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ところで",
+                                "Übrigens",
+                                "",
+                                ""
+                            ],
+                            "guid": "M>H(<r>T7,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "季節[きせつ]",
+                                "<b>Jahreszeit</b>",
+                                "",
+                                ""
+                            ],
+                            "guid": "he70[sG5Eq",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "牛乳[ぎゅうにゅう]",
+                                "Milch",
+                                "",
+                                ""
+                            ],
+                            "guid": "P&R>T+6~F!",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
