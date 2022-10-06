@@ -36,6 +36,8 @@
                         "鞄.png"
                     ],
                     "name": "Lektion 02 Vokabeln",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -157,7 +159,9 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -223,6 +227,8 @@
                         "飲.png"
                     ],
                     "name": "Lektion 03 Vokabeln",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -548,7 +554,9 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -697,6 +705,8 @@
                         "食堂.png"
                     ],
                     "name": "Liste 06",
+                    "newLimit": null,
+                    "newLimitToday": null,
                     "notes": [
                         {
                             "__type__": "Note",
@@ -1886,7 +1896,9 @@
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
-                    ]
+                    ],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
                 },
                 {
                     "__type__": "Deck",
@@ -2164,7 +2176,11 @@
             "extendRev": 0,
             "media_files": [],
             "name": "01 Vokabeln",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -2202,6 +2218,8 @@
                                 "paste-f30d5b12c3de5c1c80de1571e28225098450c2c5.jpg"
                             ],
                             "name": "02 Grammatik",
+                            "newLimit": null,
+                            "newLimitToday": null,
                             "notes": [
                                 {
                                     "__type__": "Note",
@@ -2323,7 +2341,9 @@
                                     "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                     "tags": []
                                 }
-                            ]
+                            ],
+                            "reviewLimit": null,
+                            "reviewLimitToday": null
                         },
                         {
                             "__type__": "Deck",
@@ -2361,6 +2381,395 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "03 Lektion",
+                    "newLimit": null,
+                    "newLimitToday": null,
+                    "notes": [],
+                    "reviewLimit": null,
+                    "reviewLimitToday": null
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "38cb7ce1-454e-11ed-99fb-f05524206904",
+                            "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "04.1 Grammatik",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Für welche Aussagen benutzt man います　und あります?",
+                                        "Da sind, da ist<br>Etwas haben<br>Ein Ereignis wird eintreten"
+                                    ],
+                                    "guid": "Hw^g}uRp)8",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie sagt man, dass X am Ort Y ist?",
+                                        "XはYの（LOC)です<br>Wobei LOC eine örtliche Präposition wie 前 ist.&nbsp;"
+                                    ],
+                                    "guid": "y)A{/.Y&oR",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie drückt man aus, dass man eine Aktivität an einem Ort macht?",
+                                        "Yの(LOC)で+Activity"
+                                    ],
+                                    "guid": "o|Vz4(aDrr",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist die Vergangenheitsform von ない?",
+                                        "なかった"
+                                    ],
+                                    "guid": "y?JzP:jh3K",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Was ist die Vergangenheitsform von じゃない?",
+                                        "じゃなかった"
+                                    ],
+                                    "guid": "p`6U<3&VV=",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie kann man ではありません verkürzen?",
+                                        "じゃないです"
+                                    ],
+                                    "guid": "O%eL<^YzX9",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie wird die höfliche Vergangenheitsform gebildet?",
+                                        "MASU STEM + ました"
+                                    ],
+                                    "guid": "JfGnm?SzrL",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie wird die höfliche　verneinte Vergangenheitsform gebildet?",
+                                        "MASU STEM + ませんでした"
+                                    ],
+                                    "guid": "B|E]?-fFOq",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "38cc1a64-454e-11ed-b4b9-f05524206904",
+                            "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "04.1 Sätze",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "XはYの前[まえ]です",
+                                        "X ist vor Y.",
+                                        ""
+                                    ],
+                                    "guid": "zgT#0M#9tE",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Yの前[まえ]まえでコーヒーを飲[の]みます",
+                                        "Ich trinke Kaffee vor Y.&nbsp;",
+                                        ""
+                                    ],
+                                    "guid": "bv=3fS*&#m",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "犬[いぬ]は家[いえ]の前[まえ]です",
+                                        "Der <b>Hund </b>ist <b>vor </b>dem <b>Haus</b>.",
+                                        ""
+                                    ],
+                                    "guid": "vxWTN8dE{K",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "写真[しゃしん]は机[つくえ]の上[うえ]です。",
+                                        "Das <b>Foto </b>ist <b>auf </b>dem <b>Schreibtisch</b>.",
+                                        ""
+                                    ],
+                                    "guid": "PiV+mFp<:h",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "東京[とうきょう]は神奈川[かながわ]県[けん]と茨城[いばらき]県[けん]いの間[あいだ]です。",
+                                        "<b>Tokyo </b>ist <b><u>zwischen </u></b>der <b>Präfektur kanagawa und ibaraki</b>.",
+                                        ""
+                                    ],
+                                    "guid": "JIKp>Xh}r~",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "犬[いぬ]は家[いえ]の前[まえ]でおしっこをします。",
+                                        "Der <b>Hund </b>pisst <b><u>vor </u></b>dem <b>Haus</b>.",
+                                        ""
+                                    ],
+                                    "guid": "gSv;%~1NxD",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "山[やま]の上[うえ]で写真[しゃしん]を撮[と]りました。",
+                                        "<b>Auf </b>dem <b>Berg </b>wurde das <b>Foto aufgenommen</b>.&nbsp;",
+                                        ""
+                                    ],
+                                    "guid": "Nl2t&w/YCs",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "お寺[てら]の隣[となり]で友達[ともだち]を待[まち]ました。",
+                                        "Ich habe <b><u>neben </u></b>dem <b>Tempel </b>auf die <b>Freunde gewartet</b>.&nbsp;",
+                                        ""
+                                    ],
+                                    "guid": "jT-2-kW;cv",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "昨日[きのう]は土曜日[どようび]でした。",
+                                        "<b>Gestern </b>war <b>Samstag</b>.",
+                                        ""
+                                    ],
+                                    "guid": "zrjxjwL:?Z",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "そこは公園[こうえん]でした。",
+                                        "Dort war ein <b>Park</b>.&nbsp;",
+                                        ""
+                                    ],
+                                    "guid": "f@#<K59DtV",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "雨[あめ]じゃなかったです。",
+                                        "Es gab keinen&nbsp;<b>Regen</b>.",
+                                        ""
+                                    ],
+                                    "guid": "kg1%Cv3gIS",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "その人[ひと]は英語[えいご]の先生[せんせい]でした。",
+                                        "Diese <b>Person </b>war mein <b>Englischlehrer</b>.",
+                                        ""
+                                    ],
+                                    "guid": "tnNvBH,)~V",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "この靴[くつ]は３０００円[えん]でした。",
+                                        "Diese <b>Schuhe</b> kosten 3000 <b>Yen</b>.",
+                                        ""
+                                    ],
+                                    "guid": "f+On(zd;f-",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "隣[となり]の席[せき]は空[あ]きじゃなかったです",
+                                        "Mein <b>Nachbarplatz </b>war nicht <b>frei</b>.&nbsp;",
+                                        ""
+                                    ],
+                                    "guid": "H$)/891I,:",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "チルさんじゃなっかたです。",
+                                        "Das war nicht Herr Keller.&nbsp;",
+                                        ""
+                                    ],
+                                    "guid": "A-)HB_i$%D",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "38ccba63-454e-11ed-a5e0-f05524206904",
+                            "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "04.1 Vokabeln",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "前[まえ]",
+                                        "Vor/in front of",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "mFW=`q(<&4",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "後[うし]ろ",
+                                        "Hinter",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "uZ?j10!`;H",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "中[なか]",
+                                        "in (örtlich), in etwas drinnen",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "IL}=fgud>e",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "近[ちか]く/そば",
+                                        "Nah, in der nähe von (2 Übersetzungen)",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "g$[yfktWf}",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "隣[となり]",
+                                        "Benachbart, nebenan",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "H&j^y#Bzv$",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "38cd6ba2-454e-11ed-9446-f05524206904",
+                            "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "04.2 Grammatik",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Wie drückt man aus, dass etwas zwischen zwei Sachen ist?",
+                                        "XはYとZの聞[あいだ]です。<br>X ist zwischen Y und Z."
+                                    ],
+                                    "guid": "udB3:1HkS~",
+                                    "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
+                    "crowdanki_uuid": "38cadf2e-454e-11ed-84bd-f05524206904",
+                    "deck_config_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "04 Lektion",
                     "notes": []
                 }
             ],
@@ -2372,7 +2781,11 @@
             "extendRev": 0,
             "media_files": [],
             "name": "02 Lektionen",
-            "notes": []
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [],
+            "reviewLimit": null,
+            "reviewLimitToday": null
         },
         {
             "__type__": "Deck",
@@ -2410,18 +2823,6 @@
                                 ""
                             ],
                             "guid": "B$?K-kY}|}",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "これ位[くらい]",
-                                "<b>So viel, diese Anzahl</b>",
-                                "",
-                                ""
-                            ],
-                            "guid": "f.Ca:kpOKK",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -2686,6 +3087,58 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "31cc7422-0ccb-11ed-a02f-6245b50ff1c6",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 30,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 300
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
             "crowdanki_uuid": "406d1647-3f43-11ed-9659-0c7a15ee466f",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -2738,6 +3191,8 @@
     "extendRev": 0,
     "media_files": [],
     "name": "Japanisch Misc",
+    "newLimit": null,
+    "newLimitToday": null,
     "note_models": [
         {
             "__type__": "NoteModel",
@@ -2841,7 +3296,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "description": "",
@@ -2966,5 +3421,7 @@
             "type": 0
         }
     ],
-    "notes": []
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
 }
